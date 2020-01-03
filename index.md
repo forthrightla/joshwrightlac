@@ -48,11 +48,10 @@ sections:
       experience problems, and is a pleasure to collaborate with. '
   - author: JC Casas
     avatar: images/jane_roe.jpg
-    content: While at LegalZoom, Josh has helped streamline our creative and product
-      workflow, making everyone on the team more efficient at their jobs and allowing
-      for greater team collaboration. He wears many hats (experience design, product
-      ideation, software expert, UI designer, and even developer) and is able to communicate
-      and execute complex ideas clearly and consistently.
+    content: Josh has helped streamline our creative and product workflow, making
+      everyone on the team more efficient at their jobs and allowing for greater team
+      collaboration. He wears many hats, and is able to communicate and execute complex
+      ideas clearly and consistently.
 layout: home
 menu:
   main:
