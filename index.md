@@ -48,10 +48,10 @@ sections:
       experience problems. Josh is a pleasure to collaborate with.
   - author: JC Casas
     avatar: images/jane_roe.jpg
-    content: Josh has helped streamline our creative and product workflow, making
+    content: 'Josh has helped streamline our creative and product workflow, making
       everyone on the team more efficient at their jobs and allowing for greater team
-      collaboration. He wears many hats, and is able to communicate and execute complex
-      ideas clearly and consistently.
+      collaboration. An exceptional thinker and one of the best UX professionals I’ve
+      had the pleasure to work with, Josh would be a great addition to any team. '
 layout: home
 menu:
   main:
