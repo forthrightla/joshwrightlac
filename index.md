@@ -45,7 +45,10 @@ sections:
     avatar: images/john_doe.jpg
     content: I always get excited when I get to work with Josh on a project. He brings
       innovative thinking and a unique ability to solve complex interaction and user
-      experience problems. Josh is a pleasure to collaborate with.
+      experience problems. He goes the extra mile to research and master new technologies,
+      stay up-to-date on new platforms, and embraces the ever-changing landscape of
+      tools and methodologies. Josh fits easily into any environment and is a blast
+      to be around.
   - author: JC Casas
     avatar: images/jane_roe.jpg
     content: 'Josh has helped streamline our creative and product workflow, making
