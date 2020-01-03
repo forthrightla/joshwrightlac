@@ -24,6 +24,9 @@ sections:
   component: testimonials_block.html
   subtitle: An optional subtitle of the section
   testimonialslist:
+  - author: Amy Haupl
+    avatar: ''
+    content: Lorem ipsum
   - author: Evan Geerlings
     avatar: images/john_doe.jpg
     content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
