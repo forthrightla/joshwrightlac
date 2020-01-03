@@ -26,7 +26,12 @@ sections:
   testimonialslist:
   - author: Girmant Ragus
     avatar: ''
-    content: Dolet it
+    content: Josh is great - period! As a designer and as a person.  As a designer
+      he is a great asset with a real ability to think analytically with a common
+      sense approach to complex design problems. He's very detail oriented and extremely
+      capable in both UX & visual design disciplines. He is technologically savvy
+      and stays current with industry trends.  As a person Josh is dependable, no
+      nonsense and fun - a total pleasure to be around.
   - author: Amy Haupl
     avatar: ''
     content: Lorem ipsum
