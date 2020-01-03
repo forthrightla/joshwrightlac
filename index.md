@@ -34,17 +34,13 @@ sections:
     avatar: images/john_doe.jpg
     content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
       non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-  - author: Jane Roe
+  - author: JC Casas
     avatar: images/jane_roe.jpg
-    content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
-      interdum ligula vel, pretium diam. Integer commodo sem at dui sollicitudin,
-      vel posuere justo laoreet.
-- type: contactblock
-  template: contactblock
-  title: Contact Us
-  section_id: contact
-  component: contact_block.html
-  subtitle: An optional subtitle of the section
+    content: While at LegalZoom, Josh has helped streamline our creative and product
+      workflow, making everyone on the team more efficient at their jobs and allowing
+      for greater team collaboration. He wears many hats (experience design, product
+      ideation, software expert, UI designer, and even developer) and is able to communicate
+      and execute complex ideas clearly and consistently.
 layout: home
 menu:
   main:
