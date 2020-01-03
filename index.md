@@ -32,8 +32,9 @@ sections:
     content: Lorem ipsum
   - author: Evan Geerlings
     avatar: images/john_doe.jpg
-    content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-      non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+    content: 'I always get excited when I get to work with Josh on a project. He brings
+      innovative thinking, a unique ability to solve complex interaction and user
+      experience problems, and is a pleasure to collaborate with. '
   - author: JC Casas
     avatar: images/jane_roe.jpg
     content: While at LegalZoom, Josh has helped streamline our creative and product
