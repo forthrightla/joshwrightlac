@@ -32,7 +32,7 @@ sections:
       capable in both UX & visual design disciplines. He is technologically savvy
       and stays current with industry trends.  As a person Josh is dependable, no
       nonsense and fun - a total pleasure to be around.
-  - author: Amy Haupl
+  - author: 'Clair Whitmer, Head of Consumer Experience at Make:'
     avatar: ''
     content: 'Josh is a true team-player: he wants to learn from his colleagues and
       he wants to be proud of the overall product, not just his mockups. During the
