@@ -41,7 +41,7 @@ sections:
       and turning out new ideas. He''s not about about just trying to out-creative
       the next designer but really listening to the user and using his powers of observation
       for good. '
-  - author: Evan Geerlings
+  - author: Evan Geerlings, Senior Director of Product at LegalZoom
     avatar: images/john_doe.jpg
     content: I always get excited when I get to work with Josh on a project. He brings
       innovative thinking and a unique ability to solve complex interaction and user
