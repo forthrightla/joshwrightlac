@@ -24,6 +24,9 @@ sections:
   component: testimonials_block.html
   subtitle: An optional subtitle of the section
   testimonialslist:
+  - author: Girmant Ragus
+    avatar: ''
+    content: Dolet it
   - author: Amy Haupl
     avatar: ''
     content: Lorem ipsum
