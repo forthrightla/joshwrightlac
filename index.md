@@ -36,7 +36,7 @@ sections:
       real resiliency as the product he worked on went through start-up growing pains.  He''s
       not about about just trying to out-creative the next designer, but really listens
       to the user and uses his powers of observation for good. '
-  - author: Girmant Ragus
+  - author: Girmant Ragus, Sr Creative Director at LegalZoom
     avatar: ''
     content: Josh is great - period! As a designer and as a person.  As a designer
       he is a great asset with a real ability to think analytically with a common
