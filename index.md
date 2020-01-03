@@ -34,7 +34,13 @@ sections:
       nonsense and fun - a total pleasure to be around.
   - author: Amy Haupl
     avatar: ''
-    content: Lorem ipsum
+    content: 'Josh is a true team-player: he wants to learn from his colleagues and
+      he wants to be proud of the overall product, not just his mockups. During the
+      time we worked together, he demonstrated real resiliency as the product he worked
+      on went through start-up growing pains. But he just kept focused on the work
+      and turning out new ideas. He''s not about about just trying to out-creative
+      the next designer but really listening to the user and using his powers of observation
+      for good. '
   - author: Evan Geerlings
     avatar: images/john_doe.jpg
     content: 'I always get excited when I get to work with Josh on a project. He brings
