@@ -37,7 +37,7 @@ sections:
       not about about just trying to out-creative the next designer, but really listens
       to the user and uses his powers of observation for good. '
   - author: Girmant Ragus, Sr Creative Director at LegalZoom
-    avatar: ''
+    avatar: "/images/girmant.jpeg"
     content: Josh is great - period! As a designer and as a person. As a designer
       he is a great asset with a real ability to think analytically with a common
       sense approach to complex design problems. He's very detail oriented and extremely
