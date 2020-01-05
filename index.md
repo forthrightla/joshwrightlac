@@ -25,7 +25,7 @@ sections:
   subtitle: An optional subtitle of the section
   testimonialslist:
   - author: JC Casas, Director of UX at LegalZoom
-    avatar: images/jane_roe.jpg
+    avatar: "/images/jc.jpeg"
     content: 'Josh has helped streamline our creative and product workflow, making
       everyone on the team more efficient at their jobs and allowing for greater team
       collaboration. An exceptional thinker and one of the best UX professionals I’ve
