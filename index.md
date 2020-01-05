@@ -44,7 +44,7 @@ sections:
       capable in both UX & visual design disciplines. As a person Josh is dependable,
       no nonsense and fun - a total pleasure to be around.
   - author: Evan Geerlings, Senior Director of Product at LegalZoom
-    avatar: images/john_doe.jpg
+    avatar: "/images/evan.jpeg"
     content: I always get excited when I get to work with Josh on a project. He brings
       innovative thinking and a unique ability to solve complex interaction and user
       experience problems. He goes the extra mile to research and master new technologies
