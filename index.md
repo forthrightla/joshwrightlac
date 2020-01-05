@@ -31,7 +31,7 @@ sections:
       collaboration. An exceptional thinker and one of the best UX professionals I’ve
       had the pleasure to work with, Josh would be a great addition to any team. '
   - author: 'Clair Whitmer, Head of Consumer Experience at Make:'
-    avatar: ''
+    avatar: "/images/clair.jpeg"
     content: 'Josh is a true team-player. During the time we worked together, he demonstrated
       real resiliency as the product he worked on went through start-up growing pains.  He''s
       not about about just trying to out-creative the next designer, but really listens
