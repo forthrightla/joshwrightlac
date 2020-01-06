@@ -1,5 +1,5 @@
 ---
-title: Ribbon
+title: Ribbon Case Study
 subtitle: Optional Project Subtitle
 date: 2019-04-08
 thumb_img_path: images/3_thumb.jpg
