@@ -2,8 +2,8 @@
 title: Ribbon case study
 subtitle: Optional Project Subtitle
 date: 2019-05-10
-thumb_img_path: images/1_thumb.jpg
-content_img_path: images/1.jpg
+thumb_img_path: "/images/bg-2.png"
+content_img_path: "/images/screen-ceh-1.png"
 layout: project
 
 ---
