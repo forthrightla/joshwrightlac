@@ -13,8 +13,8 @@ sections:
   section_id: latest-projects
   component: portfolio_block.html
   subtitle: ''
-  layout_style: tiles
-  num_projects_displayed: 6
+  layout_style: mosaic
+  num_projects_displayed: '9'
   view_all_text: View All
   view_all_url: portfolio/index.html
 - type: testimonialsblock
