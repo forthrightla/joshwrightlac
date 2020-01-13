@@ -3,7 +3,7 @@ layout: project
 title: MakerSpace case study
 subtitle: ''
 date: 2020-01-01 08:00:00 +0000
-thumb_img_path: ''
+thumb_img_path: "/images/mock-makerconmobile.png"
 content_img_path: ''
 
 ---
