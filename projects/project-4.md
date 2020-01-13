@@ -1,7 +1,7 @@
 ---
 title: US Jump Rope
-subtitle: Optional Project Subtitle
-date: 2019-02-26
+subtitle: ''
+date: 2019-06-08 07:00:00 +0000
 thumb_img_path: images/4_thumb.jpg
 content_img_path: images/4.jpg
 layout: project
