@@ -1,7 +1,7 @@
 ---
 title: Ribbon case study
 subtitle: Optional Project Subtitle
-date: 2019-05-10
+date: 2019-06-07 07:00:00 +0000
 thumb_img_path: "/images/bg-2.png"
 content_img_path: "/images/screen-ceh-1.png"
 layout: project
