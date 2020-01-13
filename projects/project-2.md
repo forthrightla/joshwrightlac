@@ -1,7 +1,7 @@
 ---
 title: Estate Plan App
 subtitle: Optional Project Subtitle
-date: 2019-04-30
+date: 2019-06-03 07:00:00 +0000
 thumb_img_path: images/2_thumb.jpg
 content_img_path: images/2.jpg
 layout: project
