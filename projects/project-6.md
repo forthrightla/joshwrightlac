@@ -1,7 +1,7 @@
 ---
 title: Maker Faire
 subtitle: Optional Project Subtitle
-date: 2018-12-18 08:00:00 +0000
+date: 2019-06-06 07:00:00 +0000
 thumb_img_path: images/6_thumb.jpg
 content_img_path: images/6.jpg
 layout: project
