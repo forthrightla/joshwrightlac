@@ -5,7 +5,6 @@ subtitle: ''
 date: 2020-01-01 08:00:00 +0000
 thumb_img_path: ''
 content_img_path: ''
-published: false
 
 ---
 ## LEARN, SHARE, CONNECT
