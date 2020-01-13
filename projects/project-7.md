@@ -1,7 +1,7 @@
 ---
 title: Children in Conflict
 subtitle: Optional Project Subtitle
-date: 2018-01-15
+date: 2019-06-01 07:00:00 +0000
 thumb_img_path: images/7_thumb.jpg
 content_img_path: images/7.jpg
 layout: project
