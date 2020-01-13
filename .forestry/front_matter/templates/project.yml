@@ -33,7 +33,6 @@ fields:
   config:
     required: true
 pages:
-- projects/makerspace-case-study.md
 - projects/project-1.md
 - projects/project-2.md
 - projects/project-3.md
