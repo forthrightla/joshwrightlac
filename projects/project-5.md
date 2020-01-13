@@ -1,7 +1,7 @@
 ---
 title: Enterprise UX
 subtitle: Optional Project Subtitle
-date: 2019-01-05
+date: 2019-06-02 07:00:00 +0000
 thumb_img_path: images/5_thumb.jpg
 content_img_path: images/5.jpg
 layout: project
