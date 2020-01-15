@@ -5,7 +5,6 @@ subtitle: ''
 date: 2019-07-10 07:00:00 +0000
 thumb_img_path: "/images/block-makerspace.png"
 content_img_path: "/images/screen-space.png"
-published: false
 
 ---
 ## Learn, share, connect
