@@ -13,6 +13,8 @@ LegalZoom’s LLC formation product accounts for almost half of the company’s 
 
 I was hand-picked to lead product strategy and design for a small cross-functional team created as a “startup” within the broader company. The goal of the team was to create an experience independent of legacy systems and to experiment with price point, look and feel, and product offerings. All to be delivered at the end of **four weeks**.
 
+The final site is viewable at [ribbon.io](http://www.ribbon.io)
+
 ### My role
 
 * **Product strategy:** As Principal Designer, I partnered closely with the VPs of Marketing and Creative to determine product strategy.
@@ -79,7 +81,7 @@ With that, we're off and running!
 
 ### Implementation
 
-I partner closely with our engineers to ensure design parity.
+I partner closely with our engineer to ensure design parity.
 
 We work in one week sprints, and use Zeplin, Slack, and video chat to communicate when we’re not on-site.
 
