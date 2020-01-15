@@ -29,6 +29,8 @@ When we started the project in August 2014, the team was given an ambitious goal
 
 ![](/images/screen-mvp-marketing.png)
 
+![](/images/screen-mvp-profile.png)
+
 ### A focus on mobile
 
 As a part of the initial designs, we considered the mobile user experience of the product to be very important. To guide the responsive implementation, I provided **low-fidelity wireframes** and worked in the HTML architecture to lay the groundwork for the eventual implementation.
@@ -42,3 +44,11 @@ During the course of the project, we explored multiple design directions that wo
 ![](/images/screen-projectsteps.png)
 
 ![](/images/screen-projectmedium.png)
+
+### SPACES
+
+The Spaces concept allowed for predefined areas for user content, with the eventual "killer feature" being user-defined spaces. We initially rolled out this concept with a set of 12 predefined spaces, and user content creation exploded. Usability testing showed thatusers felt like they were connecting with others rather than simply broadcasting. I explored several directions for this feature, with the feed layout ultimately being the most successful.
+
+![](/images/screen-explore.png)
+
+![](/images/screen-space-reddit.png)
