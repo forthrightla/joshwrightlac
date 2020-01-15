@@ -15,7 +15,7 @@ It wasn't, and there was a crisis. In the years leading up to the redesign, the 
 
 ### My role
 
-Two months before the project had to go live, a coworker and I pitched a rapid-fire redesign to the Director of Web Applications. She accepted, and we went to work. I started by doing a few quick **guerilla usability studies** to see how the average user used the existing application. This highlighted a few pain points, the biggest of which was the landing page:
+Two months before the project had to go live, a coworker and I pitched a rapid-fire redesign to the Director of Web Applications. She accepted, and we went to work. I started by doing a few quick **guerilla usability studies** to see how the average user interacted with the existing application. This highlighted a few pain points, the biggest of which was the landing page:
 
 ![](/images/screen-original-full.png)
 
