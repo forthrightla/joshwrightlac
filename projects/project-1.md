@@ -1,18 +1,22 @@
 ---
 title: Ribbon case study
-subtitle: Optional Project Subtitle
+subtitle: Product design and strategy
 date: 2019-06-07 07:00:00 +0000
-thumb_img_path: "/images/bg-2.png"
-content_img_path: "/images/screen-ceh-1.png"
+thumb_img_path: "/images/ribbon-logo.png"
+content_img_path: "/images/ribbon-pic.png"
 layout: project
 
 ---
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+## Creating an in-house startup for experimentation
 
-lkj
+LegalZoom’s LLC formation product accounts for almost half of the company’s revenue. As such, leadership is hesitant to take big risks on changing the product offering or experience.
 
-> "A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
+I was hand-picked to lead product strategy and design for a small cross-functional team created as a “startup” within the broader company. The goal of the team was to create an experience independent of legacy systems and to experiment with price point, look and feel, and product offerings. All to be delivered at the end of **four weeks**.
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
+### My role
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+* **Product strategy:** As Principal Designer, I partnered closely with the VPs of Marketing and Creative to determine product strategy.
+* **UX & Product design:** I designed the entire experience from top to bottom, developing a design system and a visual language.
+* **Engineering:** I worked closely with our engineers to ensure parity with shipped designs. This included functionality, look and feel, and animation.
+
+### First, some context
