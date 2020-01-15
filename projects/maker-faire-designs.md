@@ -1,10 +1,10 @@
 ---
+layout: project
 title: Maker Faire designs
 subtitle: Selected designs from my work on Maker Faire
-date: 2019-06-06 07:00:00 +0000
+date: 2019-12-02 08:00:00 +0000
 thumb_img_path: "/images/block-makercamp.png"
 content_img_path: ''
-layout: project
 
 ---
 ## Find a Faire

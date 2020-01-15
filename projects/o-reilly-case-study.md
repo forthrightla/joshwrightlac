@@ -1,10 +1,10 @@
 ---
-title: O'Reilly case study
+layout: project
+title: O'Reilly Case Study
 subtitle: Enterprise UX design
-date: 2019-06-02 07:00:00 +0000
+date: 2019-12-01 08:00:00 +0000
 thumb_img_path: "/images/block-orly.png"
 content_img_path: "/images/screen-taskflow.png"
-layout: project
 
 ---
 ## A process in trouble

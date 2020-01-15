@@ -5,7 +5,8 @@ img_path: "/images/josh-synthesis.png"
 layout: page
 menu:
   main:
-    weight: 3
+    weight: 2
+    title: About me
 
 ---
 ![](/images/hithere.png)
