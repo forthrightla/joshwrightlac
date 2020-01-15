@@ -1,5 +1,5 @@
 ---
-title: LegalZoom iOS app designs
+title: LegalZoom iOS app design
 subtitle: Estate Planning iOS app
 date: 2019-06-03 07:00:00 +0000
 thumb_img_path: "/images/ep-app-1.png"
