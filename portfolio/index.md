@@ -1,6 +1,6 @@
 ---
-title: Portfolio
-subtitle: This is an optional subtitle for the portfolio page.
+title: Selected work
+subtitle: ''
 layout_style: tiles
 layout: portfolio
 menu:
