@@ -19,7 +19,7 @@ sections:
   view_all_url: portfolio/index.html
 - type: testimonialsblock
   template: testimonialsblock
-  title: Testimonials
+  title: Kind words
   section_id: testimonials
   component: testimonials_block.html
   subtitle: ''
