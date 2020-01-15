@@ -7,7 +7,7 @@ content_img_path: "/images/ribbon-pic.png"
 layout: project
 
 ---
-## Creating an in-house startup so LegalZoom can experiment
+## Innovation at LegalZoom
 
 LegalZoom’s LLC formation product accounts for almost half of the company’s revenue. As such, leadership is hesitant to take big risks on changing the product offering or experience.
 
