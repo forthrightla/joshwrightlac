@@ -3,7 +3,7 @@ title: Jump Rope Nationals case study
 subtitle: Field research study
 date: 2019-06-08 07:00:00 +0000
 thumb_img_path: "/images/usajr-logo.png"
-content_img_path: "/images/eventsoftware.png"
+content_img_path: "/images/jumprope-interview2-1.png"
 layout: project
 
 ---
