@@ -40,6 +40,8 @@ In order to complete this project at the required velocity, the team had to make
 
 To keep things lean and maintain velocity, we decide to use a B2C white label provider LegalZoom recently acquired to fulfill orders. This allows us to side-step any potential issues with legacy technology.
 
+![](/images/squiggle1.png)
+
 ### An issue emerges
 
 We learn from engineering that due to deadline constraints the concept of a user having an account is out of scope.
