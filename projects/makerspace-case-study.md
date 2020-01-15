@@ -45,9 +45,9 @@ During the course of the project, we explored multiple design directions that wo
 
 ![](/images/screen-projectmedium.png)
 
-### SPACES
+### Community-driven spaces
 
-The Spaces concept allowed for predefined areas for user content, with the eventual "killer feature" being user-defined spaces. We initially rolled out this concept with a set of 12 predefined spaces, and user content creation exploded. Usability testing showed thatusers felt like they were connecting with others rather than simply broadcasting. I explored several directions for this feature, with the feed layout ultimately being the most successful.
+The Spaces concept allowed for predefined areas for user content, with the eventual "killer feature" being user-defined spaces. We initially rolled out this concept with a set of 12 predefined spaces based on community feedback, and user content creation exploded. Usability testing showed that users felt like they were connecting with others rather than simply broadcasting. I explored several directions for this feature, with the feed layout ultimately being the most successful.
 
 ![](/images/screen-explore.png)
 
