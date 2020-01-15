@@ -29,7 +29,6 @@ The final site is live at [ribbon.io](http://www.ribbon.io)
 &nbsp;  
 
 
-
 ### First, some context: what is a typical LegalZoom product experience?
 
 ![](/images/lz-typical-experience.png)
@@ -38,7 +37,6 @@ A typical product experience consists of a **landing page**, a **questionnaire**
 
 
 &nbsp;  
-
 
 
 ### Determining target market
@@ -51,7 +49,6 @@ To differentiate the Ribbon experience from LegalZoom's typical customer, we dec
 &nbsp;  
 
 
-
 ### Strategy
 
 In order to complete this project at the required velocity, the team had to make a lot of informed assumptions and operate from a place of vague understanding. Our assumptions were based on:
@@ -61,11 +58,14 @@ In order to complete this project at the required velocity, the team had to make
 
 To keep things lean and maintain velocity, we decide to use a B2C white label provider LegalZoom recently acquired to fulfill orders. This allows us to side-step any potential issues with legacy technology.
 
+
+&nbsp;  
+
+
 ![](/images/squiggle1.png)
 
 
 &nbsp;  
-
 
 
 ### An issue emerges
@@ -84,6 +84,10 @@ Due to the high number of questions we would need to ask pre-purchase, I try to 
 **I finally hit on a solution:** ask a streamlined number of questions, and then have the third party call the customer.
 
 With that, we're off and running!
+
+
+&nbsp;  
+
 
 ![](/images/squiggle1.png)
 
@@ -132,7 +136,7 @@ With that, we're off and running!
 
 
 
-### Implementation
+### We start building
 
 I partner closely with our engineer to ensure design parity.
 
@@ -145,13 +149,11 @@ We work in one week sprints, and use Zeplin, Slack, and video chat to communicat
 
 
 
-### Outcomes: week one
+### Outcomes
 
-To avoid overwhelming our third party vendor, we decided to cap orders at 40 per burst of Adwords traffic.
+To avoid overwhelming our third party vendor, in our first few weeks we decided to cap orders at 100. We also set our expectations very low on conversion rate due to the brand being unestablished.
 
-We also set our expectations very low on conversion rate due to the brand being unestablished.
-
-Our conversion rate for week one was **3.6%**, which exceeded our expectations.
+To our surprise, our conversion rate for week one was **3.6%**, which exceeded our expectations.
 
 
 &nbsp;  
@@ -160,6 +162,6 @@ Our conversion rate for week one was **3.6%**, which exceeded our expectations.
 
 ### Final takeaways
 
-Using the results from the Ribbon experiment, we were able to make a case for dramatically simplifying the existing LegalZoom LLC experience and adding more personable copy.
+Using the results from the Ribbon experiment, we were able to make a case to leadership for dramatically simplifying the existing LegalZoom LLC experience and adding more personable copy.
 
 I worked with the LLC product team to identify screens to A/B test removing, and places in the funnel to rework the copy. When the reworked LLC was launched, conversion increased by **8%**.
