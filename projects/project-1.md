@@ -27,6 +27,34 @@ A typical product experience consists of a **landing page**, a **questionnaire**
 
 ### Determining target market
 
-To differentiate the Ribbon experience from LegalZoom's typical customer, we decided to target **downmarket** customers with a free business formation experience. To visualize this, I put together a competitive landscape diagram.
+To differentiate the Ribbon experience from LegalZoom's typical customer, we decided to target downmarket customers with a free business formation experience. To visualize this, I put together a competitive landscape diagram.
 
 ![](/images/competitive-landscape-1.png)
+
+### Strategy
+
+In order to complete this project at the required velocity, the team had to make a lot of informed assumptions and operate from a place of vague understanding. Our assumptions were based on:
+
+* **Existing LegalZoom research & design:** competitive analyses, proto-personas, customer journey mapping, mothballed designs for similar projects that had been usability and demand tested.
+* **Systemic knowledge:** everyone on the Ribbon team already had a deep knowledge of the business formation journey.
+
+To keep things lean and maintain velocity, we decide to use a B2C white label provider LegalZoom recently acquired to fulfill orders. This allows us to side-step any potential issues with legacy technology.
+
+### An issue emerges
+
+We learn from engineering that due to deadline constraints the concept of a user having an account is out of scope.
+
+I perform an audit of the third party’s existing experience, and determine that completing formation with all upsells would require the user to answer around 50 questions before purchase.
+
+Alarms start going off.
+
+### I identify a fix
+
+Due to the high number of questions we would need to ask pre-purchase, I try to narrow the scope. I keep hitting walls.
+
+* Cannot reduce the number of upsells in the funnel (5), which exponentially increases the number of post-conversion questions as well as product complexity.
+* Cannot target specifically LLC formations rather than both LLC and Corporation.
+
+**I finally hit on a solution:** ask a streamlined number of questions, and then have the third party call the customer. 
+
+With that, we're off and running!
