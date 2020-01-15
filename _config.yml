@@ -3,7 +3,7 @@ title: Josh Wright - Product Designer & UX Strategist
 baseurl: "/"
 permalink: "/:title/"
 color_scheme: light
-accent_color: green
+accent_color: blue
 header:
   title: Josh Wright
   has_nav: true
