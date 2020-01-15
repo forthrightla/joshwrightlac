@@ -5,7 +5,6 @@ subtitle: Product design and strategy
 date: 2019-12-06 08:00:00 +0000
 thumb_img_path: "/images/ribbon-logo-3.png"
 content_img_path: "/images/ribbon-pic.png"
-published: false
 
 ---
 ## Innovation at LegalZoom
