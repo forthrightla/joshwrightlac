@@ -66,7 +66,7 @@ Due to the high number of questions we would need to ask pre-purchase, I try to 
 
 With that, we're off and running!
 
-<img align="right" src="/images/squiggle1.png">
+![](/images/squiggle1.png)
 
 
 ### I determine baseline layout and functionality
