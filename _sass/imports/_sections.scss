@@ -88,18 +88,6 @@
 
 /* Latest projects */
 
-  .post-link {
-    &:hover,
-    &:focus {
-      .view-all {
-        &:before,
-        &:after {
-          height: 50%;
-        }
-      }
-    }
-  }
-}
 
 /* Services */
 .service {
