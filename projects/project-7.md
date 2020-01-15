@@ -2,8 +2,8 @@
 title: Children in Conflict
 subtitle: ''
 date: 2019-07-06 07:00:00 +0000
-thumb_img_path: "/images/cic-logo.png"
-content_img_path: "/images/cic-brandisam.png"
+thumb_img_path: "/images/cic-logo-1.png"
+content_img_path: "/images/cic-brandisam-1.png"
 layout: project
 
 ---
