@@ -15,11 +15,13 @@ I was hand-picked to lead product strategy and design for a small cross-function
 
 The final site is viewable at [ribbon.io](http://www.ribbon.io)
 
+
 ### My role
 
 * **Product strategy:** As Principal Designer, I partnered closely with the VPs of Marketing and Creative to determine product strategy.
 * **UX & Product design:** I designed the entire experience from top to bottom, developing a design system and a visual language.
 * **Engineering:** I worked closely with our engineers to ensure parity with shipped designs. This included functionality, look and feel, and animation.
+
 
 ### First, some context: what is a typical LegalZoom product experience?
 
@@ -27,11 +29,13 @@ The final site is viewable at [ribbon.io](http://www.ribbon.io)
 
 A typical product experience consists of a **landing page**, a **questionnaire** in which customers fill out their detailed information, an **order review page**, and a **checkout page**. Some legacy questionnaires can be up to 30 pages in length.
 
+
 ### Determining target market
 
 To differentiate the Ribbon experience from LegalZoom's typical customer, we decided to target downmarket customers with a free business formation experience. To visualize this, I put together a competitive landscape diagram.
 
 ![](/images/competitive-landscape-1.png)
+
 
 ### Strategy
 
@@ -43,6 +47,7 @@ In order to complete this project at the required velocity, the team had to make
 To keep things lean and maintain velocity, we decide to use a B2C white label provider LegalZoom recently acquired to fulfill orders. This allows us to side-step any potential issues with legacy technology.
 
 ![](/images/squiggle1.png)
+
 
 ### An issue emerges
 
@@ -83,6 +88,7 @@ With that, we're off and running!
 
 ![](/images/ribbon-zeplin.png)
 
+
 ### Implementation
 
 I partner closely with our engineer to ensure design parity.
@@ -90,6 +96,7 @@ I partner closely with our engineer to ensure design parity.
 We work in one week sprints, and use Zeplin, Slack, and video chat to communicate when we’re not on-site.
 
 ![](/images/ribbon-launch.png)
+
 
 ### Outcomes: week one
 
