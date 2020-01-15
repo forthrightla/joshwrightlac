@@ -41,7 +41,11 @@ As a part of the initial designs, we considered the mobile user experience of th
 
 During the course of the project, we explored multiple design directions that would allow users to share and build their projects.
 
+###### VERSION A - Steps as blocks
+
 ![](/images/screen-projectsteps.png)
+
+###### VERSION B - Steps in a flowing, Medium-esque format
 
 ![](/images/screen-projectmedium.png)
 
