@@ -3,7 +3,7 @@ title: O'Reilly case study
 subtitle: Enterprise UX design
 date: 2019-06-02 07:00:00 +0000
 thumb_img_path: "/images/block-orly.png"
-content_img_path: "/images/bg-1.png"
+content_img_path: "/images/screen-taskflow.png"
 layout: project
 
 ---
