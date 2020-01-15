@@ -65,6 +65,6 @@ After validating my idea with my fellow researcher, I designed a mobile prototyp
 
 ### Pitching the board of directors
 
-![](/images/pitch.png)
+![](/images/jumprope-pitch.png)
 
 After the event, I pitched the board on my software solution to huge success. Budget has recently been approved to continue exploration. Watch this space.
