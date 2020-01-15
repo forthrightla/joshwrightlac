@@ -17,8 +17,48 @@ The processes used to run the events and the organization itself are outdated an
 
 I was hired by a consulting group to conduct a two day research study at the event to help develop a strategy and potentially a software solution.
 
+### Field research
+
 Partnered with a fellow UX researcher, we split up and conducted rapid fire contextual inquiries when we could grab people’s time. Additionally, I did a deep dive into how the event itself was run.
 
 Not knowing much about sports in general, I was learning as much as I could as quickly as possible.
 
 ![](/images/jumprope-interview1.png)
+
+### Dated legacy systems
+
+A surprising amount of the process used to run the event is still analog, and their filing system is “a filing cabinet in a storage unit in Alabama”. 
+
+There was a tremendous opportunity for optimization.
+
+![](/images/jumprope-interview2-1.png)
+
+### Understanding the event
+
+One observation that stood out was the use of “runners.”
+
+Each athlete competes at one of nine stations, observed by three judges.
+
+After an event, three runners will go to each station, write down the judges’ scores, and then physically walk them over to a volunteer that types each score into an Access database.
+
+![](/images/runners.png)
+
+We rapidly synthesized in the field
+
+![](/images/jumprope-synthesis.png)
+
+### Identifying opportunities
+
+The opportunity we identified was a suite of event software that would automatically communicate with a centralized server. 
+
+![](/images/eventsoftware.png)
+
+Via affinity diagram, we identified which product would have the highest impact with the lowest investment, and that morning at the event I designed and built a prototype.
+
+<iframe width="438" height="930" src="//invis.io/BKSR9I2AHU4" frameborder="0" allowfullscreen></iframe>
+
+### Pitching the board of directors
+
+![](/images/pitch.png)
+
+After the event, I pitched the board on my software solution to huge success. Budget has recently been approved to continue exploration. Watch this space.
