@@ -15,9 +15,7 @@ I was hand-picked to lead product strategy and design for a small cross-function
 
 The final site is live at [ribbon.io](http://www.ribbon.io)
 
-
-&nbsp;  
-
+ 
 
 ### My role
 
@@ -25,9 +23,7 @@ The final site is live at [ribbon.io](http://www.ribbon.io)
 * **UX & Product design:** I designed the entire experience from top to bottom, developing a design system and a visual language.
 * **Engineering:** I worked closely with our engineers to ensure parity with shipped designs. This included functionality, look and feel, and animation.
 
-
-&nbsp;  
-
+ 
 
 ### First, some context: what is a typical LegalZoom product experience?
 
@@ -35,9 +31,7 @@ The final site is live at [ribbon.io](http://www.ribbon.io)
 
 A typical product experience consists of a **landing page**, a **questionnaire** in which customers fill out their detailed information, an **order review page**, and a **checkout page**. Some legacy questionnaires can be up to 30 pages in length.
 
-
-&nbsp;  
-
+ 
 
 ### Determining target market
 
@@ -45,9 +39,7 @@ To differentiate the Ribbon experience from LegalZoom's typical customer, we dec
 
 ![](/images/competitive-landscape-1.png)
 
-
-&nbsp;  
-
+ 
 
 ### Strategy
 
@@ -59,13 +51,7 @@ In order to complete this project at the required velocity, the team had to make
 To keep things lean and maintain velocity, we decide to use a B2C white label provider LegalZoom recently acquired to fulfill orders. This allows us to side-step any potential issues with legacy technology.
 
 
-&nbsp;  
-
-
-![](/images/squiggle1.png)
-
-
-&nbsp;  
+  
 
 
 ### An issue emerges
@@ -85,34 +71,23 @@ Due to the high number of questions we would need to ask pre-purchase, I try to 
 
 With that, we're off and running!
 
-
-&nbsp;  
-
+ 
 
 ![](/images/squiggle1.png)
 
-
-&nbsp;  
-
-
+ 
 
 ### I determine baseline layout and functionality
 
 ![](/images/ribbon-layout.png)
 
-
-&nbsp;  
-
-
+ 
 
 ### Thread, our design system, is born
 
 ![](/images/thread.png)
 
-
-&nbsp;  
-
-
+ 
 
 ### The brand begins to emerge
 
@@ -122,19 +97,13 @@ With that, we're off and running!
 
 ![](/images/ribbon-flow2.png)
 
-
-&nbsp;  
-
-
+ 
 
 ### Assets begin shipping to Zeplin
 
 ![](/images/ribbon-zeplin.png)
 
-
-&nbsp;  
-
-
+ 
 
 ### We start building
 
@@ -144,10 +113,7 @@ We work in one week sprints, and use Zeplin, Slack, and video chat to communicat
 
 ![](/images/ribbon-launch.png)
 
-
-&nbsp;  
-
-
+ 
 
 ### Outcomes
 
@@ -155,10 +121,7 @@ To avoid overwhelming our third party vendor, in our first few weeks we decided 
 
 To our surprise, our conversion rate for week one was **3.6%**, which exceeded our expectations.
 
-
-&nbsp;  
-
-
+ 
 
 ### Final takeaways
 
