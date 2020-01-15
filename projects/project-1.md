@@ -77,7 +77,7 @@ With that, we're off and running!
 
 ![](/images/ribbon-howitworks.png)
 
-![](/images/ribbon-flow.png)
+![](/images/ribbon-flow2.png)
 
 ### Assets begin shipping to Zeplin
 
