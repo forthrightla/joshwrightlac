@@ -30,10 +30,9 @@ sections:
       had the pleasure to work with. He would be a great addition to any team. '
   - author: 'Clair Whitmer, Head of Consumer Experience at Make:'
     avatar: "/images/clair.jpeg"
-    content: 'Josh is a true team-player. During the time we worked together, he demonstrated
-      real resiliency as the product he worked on went through start-up growing pains.  He''s
-      not about about just trying to out-creative the next designer, but really listens
-      to the user and uses his powers of observation for good. '
+    content: 'Josh is a true team-player. He''s not about about just trying to out-creative
+      the next designer, but really listens to the user and uses his powers of observation
+      for good. '
   - author: Girmant Ragus, Sr Creative Director at LegalZoom
     avatar: "/images/girmant.jpeg"
     content: Josh is great - period! He's very detail oriented and extremely capable
