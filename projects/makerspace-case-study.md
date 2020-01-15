@@ -1,7 +1,7 @@
 ---
 layout: project
 title: MakerSpace case study
-subtitle: ''
+subtitle: The official social platform of the maker movement
 date: 2019-07-10 07:00:00 +0000
 thumb_img_path: "/images/block-makerspace.png"
 content_img_path: "/images/screen-space.png"
