@@ -47,9 +47,9 @@ sections:
     avatar: "/images/evan.jpeg"
     content: I always get excited when I get to work with Josh on a project. He brings
       innovative thinking and a unique ability to solve complex interaction and user
-      experience problems. He goes the extra mile to research and master new technologies
-      and embraces the ever-changing landscape of tools and methodologies. Josh fits
-      easily into any environment and is a blast to be around.
+      experience problems. He goes the extra mile to master new technologies and embraces
+      the ever-changing landscape of tools and methodologies. Josh fits easily into
+      any environment and is a blast to be around.
 layout: home
 menu:
   main:
