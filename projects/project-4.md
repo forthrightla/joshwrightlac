@@ -1,8 +1,8 @@
 ---
-title: US Jump Rope
+title: US Jump Rope case study
 subtitle: ''
 date: 2019-06-08 07:00:00 +0000
-thumb_img_path: images/4_thumb.jpg
+thumb_img_path: "/images/eventsoftware.png"
 content_img_path: images/4.jpg
 layout: project
 
