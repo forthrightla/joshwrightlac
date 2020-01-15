@@ -6,6 +6,7 @@ layout: page
 menu:
   main:
     weight: 2
+    title: About me
 
 ---
 ![](/images/hithere.png)
