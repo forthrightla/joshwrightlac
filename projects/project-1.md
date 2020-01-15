@@ -1,7 +1,7 @@
 ---
 title: Ribbon case study
 subtitle: Product design and strategy
-date: 2019-06-07 07:00:00 +0000
+date: 2019-10-01 07:00:00 +0000
 thumb_img_path: "/images/ribbon-logo-2.png"
 content_img_path: "/images/ribbon-pic.png"
 layout: project
