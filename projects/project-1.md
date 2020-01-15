@@ -60,3 +60,7 @@ Due to the high number of questions we would need to ask pre-purchase, I try to 
 **I finally hit on a solution:** ask a streamlined number of questions, and then have the third party call the customer. 
 
 With that, we're off and running!
+
+### I determine baseline layout and functionality
+
+![](/images/ribbon-layout.png)
