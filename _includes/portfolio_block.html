@@ -17,17 +17,6 @@
         {% for post in recent_projects %}
         <article class="post project">
           {% assign last_is_not_empty = forloop.last | is_not_empty %}
-          {% if last_is_not_empty %}
-          <a href="{{ include.section.view_all_url }}" class="post-link">
-            {% assign thumb_img_path_is_not_empty = post.thumb_img_path | is_not_empty %}
-            {% if thumb_img_path_is_not_empty %}
-            <div class="post-thumbnail">
-              <img class="thumbnail" src="{{ post.thumb_img_path | relative_url }}" alt="{{ post.title }}" />
-            </div>
-            {% endif %}
-            <span class="view-all">{{ include.section.view_all_text | default: 'View All' }}</span>
-          </a>
-          {% else %}
           <a href="{{ post.url | relative_url }}" class="post-link">
             {% assign thumb_img_path_is_not_empty = post.thumb_img_path | is_not_empty %}
             {% if thumb_img_path_is_not_empty %}
