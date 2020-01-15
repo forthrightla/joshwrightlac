@@ -3,7 +3,7 @@ title: O'Reilly case study
 subtitle: Enterprise UX
 date: 2019-06-02 07:00:00 +0000
 thumb_img_path: images/5_thumb.jpg
-content_img_path: images/5.jpg
+content_img_path: "/images/bg-1.png"
 layout: project
 
 ---
@@ -24,17 +24,25 @@ It wasn't, and there was a crisis. In the years leading up to the redesign, the 
 
 Two months before the project had to go live, a coworker and I pitched a rapid-fire redesign to the Director of Web Applications. She accepted, and we went to work. I started by doing a few quick **guerilla usability studies** to see how the average user used the existing application. This highlighted a few pain points, the biggest of which was the landing page:
 
+![](/images/screen-original-full.png)
+
 ## MY PROCESS
 
 Two key issues came to light through my research: the flow of the application was confusing to users, and the design lacked a clear visual indication of what to do next. I pulled out my post-it notes and put together a simple **task flow** to brainstorm options for streamlining the user flow.
+
+![](/images/screen-taskflow.png)
 
 ## SKETCH, WIREFRAME, PROTOTYPE
 
 Consolidating a few of the tasks into a single step simplified the design, and changing the terminology from “Overview” to "Action Required" clarified the actions the user needed to take. I began by sketching a few ideas incorporating the new concepts, which I later translated into a quick mockup for stakeholder review.
 
+![](/images/screen-todo.png)
+
 ## TESTING MY THEORY
 
 During the implementation process, I conducted **usability tests** to determine if my ideas were sound and quickly iterated based on the feedback. I worked closely with developers during this phase to make sure my prototyped ideas were successfully implemented. Within one month of the design being finalized, the redesigned application went live.
+
+![](/images/screen-bootstrap.png)
 
 ## THE OUTCOME
 
