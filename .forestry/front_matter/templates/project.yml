@@ -34,6 +34,7 @@ fields:
     required: true
 pages:
 - projects/jump-rope-nationals-case-study.md
+- projects/legalzoom-ios-app-design.md
 - projects/maker-faire-designs.md
 - projects/makerspace-case-study.md
 - projects/o-reilly-case-study.md
