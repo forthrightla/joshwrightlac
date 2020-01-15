@@ -50,9 +50,7 @@ We learn from engineering that due to deadline constraints the concept of a user
 
 I perform an audit of the third party’s existing experience, and determine that completing formation with all upsells would require the user to answer around 50 questions before purchase.
 
-Alarms start going off.
-
-### I identify a fix
+**Alarms start going off.**
 
 Due to the high number of questions we would need to ask pre-purchase, I try to narrow the scope. I keep hitting walls.
 
@@ -63,17 +61,23 @@ Due to the high number of questions we would need to ask pre-purchase, I try to 
 
 With that, we're off and running!
 
+<img align="right" src="/images/squiggle1.png">
+
+
 ### I determine baseline layout and functionality
 
 ![](/images/ribbon-layout.png)
+
 
 ### Thread, our design system, is born
 
 ![](/images/thread.png)
 
+
 ### The brand begins to emerge
 
 ![](/images/ribbon-brand.png)
+
 
 ### Assets begin shipping to Zeplin
 
