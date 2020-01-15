@@ -59,6 +59,8 @@ Via affinity diagram, we identified which product would have the highest impact 
 
 ### Prototyping my idea
 
+![](/images/jumprope-design.png)
+
 After validating my idea with my fellow researcher, I designed a mobile prototype in Sketch and wired it up in Invision.
 
 <iframe width="438" height="930" src="//invis.io/BKSR9I2AHU4" frameborder="0" allowfullscreen></iframe>
