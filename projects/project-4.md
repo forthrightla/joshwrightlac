@@ -3,7 +3,7 @@ title: Jump Rope Nationals case study
 subtitle: Field research study
 date: 2019-06-08 07:00:00 +0000
 thumb_img_path: "/images/usajr-logo.png"
-content_img_path: "/images/jumprope-interview2-1.png"
+content_img_path: "/images/jumprope-design.png"
 layout: project
 
 ---
@@ -67,4 +67,4 @@ After validating my idea with my fellow researcher, I designed a mobile prototyp
 
 ![](/images/jumprope-pitch.png)
 
-After the event, I pitched the board on my software solution to huge success. Budget has recently been approved to continue exploration. Watch this space.
+After the event, I pitched the board on my software solution to huge success. Budget has recently been approved to continue exploration. Watch this space!
