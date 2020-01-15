@@ -7,7 +7,7 @@ content_img_path: "/images/ribbon-pic.png"
 layout: project
 
 ---
-## Creating an in-house startup for experimentation
+## Creating an in-house startup so LegalZoom can experiment
 
 LegalZoom’s LLC formation product accounts for almost half of the company’s revenue. As such, leadership is hesitant to take big risks on changing the product offering or experience.
 
@@ -19,4 +19,14 @@ I was hand-picked to lead product strategy and design for a small cross-function
 * **UX & Product design:** I designed the entire experience from top to bottom, developing a design system and a visual language.
 * **Engineering:** I worked closely with our engineers to ensure parity with shipped designs. This included functionality, look and feel, and animation.
 
-### First, some context
+### First, some context: what is a typical LegalZoom product experience?
+
+![](/images/lz-typical-experience.png)
+
+A typical product experience consists of a **landing page**, a **questionnaire** in which customers fill out their detailed information, an **order review page**, and a **checkout page**. Some legacy questionnaires can be up to 30 pages in length.
+
+### Determining target market
+
+To differentiate the Ribbon experience from LegalZoom's typical customer, we decided to target **downmarket** customers with a free business formation experience. To visualize this, I put together a competitive landscape diagram.
+
+![](/images/competitive-landscape-1.png)
