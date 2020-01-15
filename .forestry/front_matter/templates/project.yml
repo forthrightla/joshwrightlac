@@ -33,6 +33,7 @@ fields:
   config:
     required: true
 pages:
+- projects/jump-rope-nationals-case-study.md
 - projects/maker-faire-designs.md
 - projects/makerspace-case-study.md
 - projects/o-reilly-case-study.md
