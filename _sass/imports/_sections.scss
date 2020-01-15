@@ -88,30 +88,6 @@
 
 /* Latest projects */
 
-    &:before,
-    &:after {
-      border: 3px solid _palette(accent);
-      box-sizing: border-box;
-      content: "";
-      height: 35%;
-      left: 0;
-      position: absolute;
-      transition: .3s ease;
-      -webkit-transition: .3s ease;
-      width: 100%;
-    }
-
-    &:before {
-      border-bottom: 0;
-      top: 0;
-    }
-
-    &:after {
-      border-top: 0;
-      bottom: 0;
-    }
-  }
-
   .post-link {
     &:hover,
     &:focus {
