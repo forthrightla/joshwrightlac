@@ -22,7 +22,7 @@ sections:
   title: Testimonials
   section_id: testimonials
   component: testimonials_block.html
-  subtitle: An optional subtitle of the section
+  subtitle: ''
   testimonialslist:
   - author: JC Casas, Director of UX at LegalZoom
     avatar: "/images/jc.jpeg"
