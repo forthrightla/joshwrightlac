@@ -26,8 +26,8 @@ sections:
   testimonialslist:
   - author: JC Casas, Director of UX at LegalZoom
     avatar: "/images/jc.jpeg"
-    content: 'Josh is exceptional thinker and one of the best UX professionals I’ve
-      had the pleasure to work with. He would be a great addition to any team. '
+    content: 'Josh is an exceptional thinker and one of the best UX professionals
+      I’ve had the pleasure to work with. He would be a great addition to any team. '
   - author: 'Clair Whitmer, Head of Consumer Experience at Make:'
     avatar: "/images/clair.jpeg"
     content: Josh is a true team-player. He's not about about trying to out-creative
