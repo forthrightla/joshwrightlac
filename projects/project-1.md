@@ -57,10 +57,38 @@ Due to the high number of questions we would need to ask pre-purchase, I try to 
 * Cannot reduce the number of upsells in the funnel (5), which exponentially increases the number of post-conversion questions as well as product complexity.
 * Cannot target specifically LLC formations rather than both LLC and Corporation.
 
-**I finally hit on a solution:** ask a streamlined number of questions, and then have the third party call the customer. 
+**I finally hit on a solution:** ask a streamlined number of questions, and then have the third party call the customer.
 
 With that, we're off and running!
 
 ### I determine baseline layout and functionality
 
 ![](/images/ribbon-layout.png)
+
+### Thread, our design system, is born
+
+![](/images/thread.png)
+
+### The brand begins to emerge
+
+![](/images/ribbon-brand.png)
+
+### Assets begin shipping to Zeplin
+
+![](/images/ribbon-zeplin.png)
+
+### Implementation
+
+I partner closely with our engineers to ensure design parity.
+
+We work in one week sprints, and use Zeplin, Slack, and video chat to communicate when we’re not on-site.
+
+![](/images/ribbon-launch.png)
+
+### Outcomes: week one
+
+To avoid overwhelming our third party vendor, we decided to cap orders at 40 per burst of Adwords traffic.
+
+We also set our expectations very low on conversion rate due to the brand being unestablished.
+
+Our conversion rate for week one was **3.6%**, which exceeded our expectations.
