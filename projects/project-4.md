@@ -53,7 +53,13 @@ The opportunity we identified was a suite of event software that would automatic
 
 ![](/images/eventsoftware.png)
 
-Via affinity diagram, we identified which product would have the highest impact with the lowest investment, and that morning at the event I designed and built a prototype.
+Via affinity diagram, we identified which product would have the highest impact with the lowest investment, and that morning at the event I sketched out solutions.
+
+![](/images/sketch-app.png)
+
+### Prototyping my idea
+
+After validating my idea with my fellow researcher, I designed a mobile prototype in Sketch and wired it up in Invision.
 
 <iframe width="438" height="930" src="//invis.io/BKSR9I2AHU4" frameborder="0" allowfullscreen></iframe>
 
