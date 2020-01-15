@@ -38,11 +38,9 @@ sections:
       to the user and uses his powers of observation for good. '
   - author: Girmant Ragus, Sr Creative Director at LegalZoom
     avatar: "/images/girmant.jpeg"
-    content: Josh is great - period! As a designer and as a person. As a designer
-      he is a great asset with a real ability to think analytically with a common
-      sense approach to complex design problems. He's very detail oriented and extremely
-      capable in both UX & visual design disciplines. As a person Josh is dependable,
-      no nonsense and fun - a total pleasure to be around.
+    content: Josh is great - period! He's very detail oriented and extremely capable
+      in both UX & visual design disciplines. As a person Josh is dependable, no nonsense
+      and fun - a total pleasure to be around.
   - author: Evan Geerlings, Sr Director of Product at LegalZoom
     avatar: "/images/evan.jpeg"
     content: 'I always get excited when I get to work with Josh on a project. He brings
