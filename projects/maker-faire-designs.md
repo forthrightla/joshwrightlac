@@ -13,6 +13,6 @@ Finding Maker Faires around the world is difficult, and I was tasked with improv
 
 ![](/images/screen-makerfaire-aroundtheworld-1.png)
 
-### Mobile menu prototype
+### Maker Faire mobile menu prototype
 
 ![](/images/proto-makerfaire-mobilemenu-1.gif)
