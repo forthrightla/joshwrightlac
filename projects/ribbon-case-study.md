@@ -2,19 +2,18 @@
 layout: project
 title: Ribbon Case Study
 subtitle: Product design and strategy
-date: 2019-12-06 08:00:00 +0000
+date: 2019-12-06T08:00:00.000+00:00
 thumb_img_path: "/images/ribbon-logo-3.png"
 content_img_path: "/images/ribbon-pic.png"
 
 ---
 ## Innovation at LegalZoom
 
-LegalZoom’s LLC formation product accounts for almost half of the company’s revenue. As such, leadership is hesitant to take big risks on changing the product offering or experience.
+<span>LegalZoom’s LLC formation product accounts for almost half of the company’s revenue. As such, leadership is hesitant to take big risks on changing the product offering or experience.</span>
 
-I was hand-picked to lead product strategy and design for a small cross-functional team created as a “startup” within the broader company. The goal of the team was to create an experience independent of legacy systems and to experiment with price point, look and feel, and product offerings. All to be delivered at the end of **four weeks**.
+<span>I was hand-picked to lead product strategy and design for a small cross-functional team created as a “startup” within the broader company. The goal of the team was to create an experience independent of legacy systems and to experiment with price point, look and feel, and product offerings. All to be delivered at the end of **four weeks**.</span>
 
-The final site is live at [ribbon.io](http://www.ribbon.io)
-
+<span>The final site is live at [ribbon.io](http://www.ribbon.io)</span>
  
 
 ### My role
