@@ -11,7 +11,7 @@ layout: project
 
 Children in Conflict is a charity whose mission is to protect, educate, and stand up for the rights of children caught up in conflict. I was contracted to design a splash page for their new website, design email templates, and to design a landing page for a collaboration between Brandi Carlile and Sam Smith that would benefit the charity.
 
-### Desktop landing page
+### Desktop splash page
 
 ![](/images/cic-laptop.png)
 
