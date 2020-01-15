@@ -34,6 +34,7 @@ fields:
     required: true
 pages:
 - projects/makerspace-case-study.md
+- projects/o-reilly-case-study.md
 - projects/project-1.md
 - projects/project-2.md
 - projects/project-4.md
