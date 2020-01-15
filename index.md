@@ -14,9 +14,9 @@ sections:
   component: portfolio_block.html
   subtitle: ''
   layout_style: tiles
-  num_projects_displayed: '4'
-  view_all_text: View All
-  view_all_url: portfolio/index.html
+  num_projects_displayed: '99'
+  view_all_text: ''
+  view_all_url: ''
 - type: testimonialsblock
   template: testimonialsblock
   title: Kind words
