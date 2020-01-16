@@ -1,6 +1,6 @@
 ---
-title: Josh Wright is actively seeking full-time or contract engagements.
-subtitle: ''
+title: About me
+subtitle: I'm actively seeking full-time or contract engagements.
 img_path: "/images/josh-synthesis.png"
 layout: page
 menu:
