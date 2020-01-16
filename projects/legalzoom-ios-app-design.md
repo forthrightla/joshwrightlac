@@ -2,7 +2,7 @@
 layout: project
 title: LegalZoom iOS app design
 subtitle: Estate Planning iOS app
-date: 2019-12-05 08:00:00 +0000
+date: 2019-12-05T08:00:00.000+00:00
 thumb_img_path: "/images/ep-app-2.png"
 content_img_path: "/images/ios-all.png"
 
@@ -17,34 +17,24 @@ Below is a selection of screens showcasing app functionality.
 
 ### Sign in
 
-![](/images/Sign In.png)
-
- 
+![](/images/Sign In-1.png)
 
 ### Introduction
 
-![](/images/Intro.png)
-
- 
+![](/images/Intro-1.png)
 
 ### Dashboard
 
-![](/images/Dashboard.png)
-
- 
+![](/images/Dashboard-1.png)
 
 ### Notifications
 
-![](/images/Notifications.png)
-
- 
+![](/images/Notifications-1.png)
 
 ### Consultations
 
-![](/images/Consultations.png)
-
- 
+![](/images/Consultations-1.png)
 
 ### File storage
 
-![](/images/File Storage.png)
+![](/images/File Storage-1.png)
