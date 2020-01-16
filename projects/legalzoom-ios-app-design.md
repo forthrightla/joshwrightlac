@@ -17,7 +17,7 @@ Below is a selection of screens showcasing app functionality.
 
 ### Sign in
 
-![](/images/Sign In-1.png)
+![](/images/Sign In-2.png)
 
 ### Introduction
 
