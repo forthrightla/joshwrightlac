@@ -1,5 +1,5 @@
 ---
-title: About me
+title: Hi, I'm Josh!
 subtitle: ''
 img_path: "/images/josh-synthesis.png"
 layout: page
