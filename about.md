@@ -1,5 +1,5 @@
 ---
-title: Hi, I'm Josh!
+title: Josh is currently seeking contract and full-time engagements
 subtitle: ''
 img_path: "/images/josh-synthesis.png"
 layout: page
