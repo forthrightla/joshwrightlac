@@ -24,15 +24,13 @@
 }
 
 .site-title {
-  color: #fff;
+  color: #000;
   font-size: 1.22222rem;
   font-weight: bold;
   line-height: 1.2;
   margin: 0;
-  text-transform: uppercase;
 
   a {
-    background: _palette(accent);
     border: 0;
     color: inherit !important;
     display: inline-block;
