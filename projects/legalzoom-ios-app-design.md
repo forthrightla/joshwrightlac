@@ -21,20 +21,20 @@ Below is a selection of screens showcasing app functionality.
 
 ### Introduction
 
-![](/images/Intro-1.png)
+![](/images/Intro.png)
 
 ### Dashboard
 
-![](/images/Dashboard-1.png)
+![](/images/Dashboard.png)
 
 ### Notifications
 
-![](/images/Notifications-1.png)
+![](/images/Notifications.png)
 
 ### Consultations
 
-![](/images/Consultations-1.png)
+![](/images/Consultations.png)
 
 ### File storage
 
-![](/images/File Storage-1.png)
+![](/images/File Storage.png)
