@@ -9,7 +9,7 @@ sections:
   content: ''
 - type: portfolioblock
   template: portfolioblock
-  title: Selected Work
+  title: Selected work
   section_id: latest-projects
   component: portfolio_block.html
   subtitle: ''
