@@ -31,7 +31,8 @@ sections:
   - author: 'Clair Whitmer, Head of Consumer Experience at Make:'
     avatar: "/images/clair.jpeg"
     content: Josh is a true team-player. He's not about about trying to out-creative
-      the next designer, but listens to the user and uses his powers for good.
+      the next designer, but listens to the user and uses his powers of observation
+      for good.
   - author: Girmant Ragus, Sr Creative Director at LegalZoom
     avatar: "/images/girmant.jpeg"
     content: Josh is great - period! He's very detail oriented and extremely capable
