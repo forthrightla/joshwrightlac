@@ -15,8 +15,6 @@ I was hand-picked to lead product strategy and design for a small cross-function
 
 The final site is live at <a href="http://www.ribbon.io" target="_new">ribbon.io</a>
 
- 
-
 ### My role
 
 * **Product strategy:** As Principal Designer, I partnered closely with the VPs of Marketing and Creative to determine product strategy.
@@ -47,6 +45,8 @@ After several rounds of back and forth with key stakeholders, I was able to narr
 
 ### Next, establishing baseline layout and functionality
 
+![](/images/ribbon-sketch.jpg)
+
 ![](/images/ribbon-layout.png)
 
 ### Thread, our design system, is born
@@ -75,15 +75,11 @@ We work in one week sprints, and use Zeplin, Slack, and video chat to communicat
 
 The final site is live at <a href="http://www.ribbon.io" target="_new">ribbon.io</a>
 
- 
-
 ### Outcomes
 
 To avoid overwhelming our third party vendor, in our first few weeks we decided to cap orders at 100. We also set our expectations very low on conversion rate due to the brand being unestablished.
 
 To our surprise, our conversion rate for week one was **3.6%**, which exceeded our expectations.
-
- 
 
 ### Final takeaways
 
