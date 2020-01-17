@@ -15,11 +15,11 @@ The processes used to run the events and the organization are outdated and start
 
 ### My role
 
-I was approached by the Austin-based consultancy <a href="http://rglrcollective.com" target="_new">RGLR Collective</a> to partner with them and conduct an on-site research study at the annual Jump Rope Nationals event in Florida. The goal was to observe the event and identify problem areas and possible solutions, culminating in an overall strategy for modernizing the sport. 
+I was approached by the Austin-based consultancy <a href="http://rglrcollective.com" target="_new">RGLR Collective</a> to partner with them and conduct an on-site research study at the annual Jump Rope Nationals event in Florida. The goal was to observe the event and identify problem areas and possible solutions, culminating in an overall strategy for modernizing the sport.
 
 ### Field research
 
-Working as a two person team with a fellow UX researcher, I conducted rapid fire **contextual inquiries** with leadership, athletes, and support staff. Additionally, I did a deep dive into how the event itself was run.
+Working as a two person team with a fellow researcher, I conducted rapid fire **contextual inquiries** with leadership, athletes, and support staff. Additionally, I did a deep dive into how the event itself was run.
 
 Not knowing much about sports in general, I was learning as much as I could as quickly as possible.
 
@@ -43,7 +43,7 @@ After an event, three runners will go to each station, write down the judges’ 
 
 ![](/images/jumprope-runners.jpg)
 
-We rapidly synthesized in the field, turning our quotes and observations into insights and building a narrative.
+We rapidly synthesized in the field, turning our quotes and observations into insights to build a narrative.
 
 ![](/images/jumprope-postits.png)
 
