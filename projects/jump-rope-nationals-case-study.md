@@ -1,9 +1,9 @@
 ---
 layout: project
-title: Jump Rope Nationals case study
+title: Field research case study
 subtitle: Research and rapid-fire design in the field
 date: 2019-12-04T08:00:00.000+00:00
-thumb_img_path: "/images/usajr-logo.png"
+thumb_img_path: "/images/sitting.png"
 content_img_path: "/images/jumprope-landing.jpg"
 
 ---
