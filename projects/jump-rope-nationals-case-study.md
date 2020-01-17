@@ -13,11 +13,11 @@ USA Jump Rope, the largest jump rope organization in the United States, has larg
 
 The processes used to run the events and the organization are outdated and starting to fray at the edges.
 
-### My role
+#### My role
 
 I was approached by the Austin-based consultancy <a href="http://rglrcollective.com" target="_new">RGLR Collective</a> to partner with them and conduct an on-site research study at the annual Jump Rope Nationals event in Florida. The goal was to observe the event and identify problem areas and possible solutions, culminating in an overall strategy for modernizing the sport.
 
-### Field research
+#### Field research
 
 Working as a two person team with a fellow researcher, I conducted rapid fire **contextual inquiries** with leadership, athletes, and support staff. Additionally, I did a deep dive into how the event itself was run.
 
@@ -67,6 +67,14 @@ After validating my idea with my fellow researcher, I designed a mobile prototyp
 
 ### Pitching the board of directors
 
+After the event, I met with the board and pitched them on my software solution. They were extremely enthusiastic, and were excited about next steps.
+
 ![](/images/jumprope-board.png)
 
-After the event, I pitched the board on my software solution to huge success. Budget has recently been approved to continue exploration. Watch this space!
+#### Developing a roadmap
+
+Working closely with my colleagues at RGLR Collective, we developed a proposed roadmap and met again with the board a few months later to discuss moving the project forward. Below are a few slides from our proposal (sensitive information removed).
+
+![](/images/usajr-principles.png)
+
+![](/images/usajr-roadmap.png)
