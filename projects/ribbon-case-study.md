@@ -9,12 +9,13 @@ content_img_path: "/images/ribbon-pic.png"
 ---
 ## Innovation at LegalZoom
 
-<span>LegalZoom’s LLC formation product accounts for almost half of the company’s revenue. As such, leadership is hesitant to take big risks on changing the product offering or experience.</span>
+LegalZoom’s LLC formation product accounts for almost half of the company’s revenue. As such, leadership is hesitant to take big risks on changing the product offering or experience.
 
-<span>I was hand-picked to lead product strategy and design for a small cross-functional team created as a “startup” within the broader company. The goal of the team was to create an experience independent of legacy systems and to experiment with price point, look and feel, and product offerings. All to be delivered at the end of **four weeks**.</span>
+I was hand-picked to lead product strategy and design for a small cross-functional team created as a “startup” within the broader company. The goal of the team was to create an experience independent of legacy systems and to experiment with price point, look and feel, and product offerings. All to be delivered at the end of **four weeks**.
 
-<span>The final site is live at [ribbon.io](http://www.ribbon.io)</span>
- 
+The final site is live at <a href="http://www.ribbon.io" target="_new">ribbon.io</a>
+
+ 
 
 ### My role
 
@@ -22,15 +23,11 @@ content_img_path: "/images/ribbon-pic.png"
 * **UX & Product design:** I designed the entire experience from top to bottom, developing a design system and a visual language.
 * **Engineering:** I worked closely with our engineers to ensure parity with shipped designs. This included functionality, look and feel, and animation.
 
- 
-
 ### First, some context: what is a typical LegalZoom product experience?
 
 ![](/images/lz-typical-experience.png)
 
 A typical product experience consists of a **landing page**, a **questionnaire** in which customers fill out their detailed information, an **order review page**, and a **checkout page**. Some legacy questionnaires can be up to 30 pages in length.
-
- 
 
 ### Determining target market
 
@@ -38,55 +35,23 @@ To differentiate the Ribbon experience from LegalZoom's typical customer, we dec
 
 ![](/images/competitive-landscape-1.png)
 
- 
-
 ### Strategy
 
-In order to complete this project at the required velocity, the team had to make a lot of informed assumptions and operate from a place of vague understanding. Our assumptions were based on:
+In order to complete this project at the required velocity, I had to make informed assumptions based on existing research and design. This included competitive analyses, proto-personas, customer journey maps, and mothballed designs for similar projects that had been usability and demand tested.
 
-* **Existing LegalZoom research & design:** competitive analyses, proto-personas, customer journey mapping, mothballed designs for similar projects that had been usability and demand tested.
-* **Systemic knowledge:** everyone on the Ribbon team already had a deep knowledge of the business formation journey.
+### First, I determine the information architecture
 
-To keep things lean and maintain velocity, we decide to use a B2C white label provider LegalZoom recently acquired to fulfill orders. This allows us to side-step any potential issues with legacy technology.
+After several rounds of back and forth with key stakeholders, I was able to narrow down the focus of the site to a set of key pages, which I then mapped out for easy digestion by the team.
 
+\[IA screen here\]
 
-  
-
-
-### An issue emerges
-
-We learn from engineering that due to deadline constraints the concept of a user having an account is out of scope.
-
-I perform an audit of the third party’s existing experience, and determine that completing formation with all upsells would require the user to answer around 50 questions before purchase.
-
-**Alarms start going off.**
-
-Due to the high number of questions we would need to ask pre-purchase, I try to narrow the scope. I keep hitting walls.
-
-* Cannot reduce the number of upsells in the funnel (5), which exponentially increases the number of post-conversion questions as well as product complexity.
-* Cannot target specifically LLC formations rather than both LLC and Corporation.
-
-**I finally hit on a solution:** ask a streamlined number of questions, and then have the third party call the customer.
-
-With that, we're off and running!
-
- 
-
-![](/images/squiggle1.png)
-
- 
-
-### I determine baseline layout and functionality
+### Next, establishing baseline layout and functionality
 
 ![](/images/ribbon-layout.png)
-
- 
 
 ### Thread, our design system, is born
 
 ![](/images/thread.png)
-
- 
 
 ### The brand begins to emerge
 
@@ -96,13 +61,9 @@ With that, we're off and running!
 
 ![](/images/ribbon-flow2.png)
 
- 
-
 ### Assets begin shipping to Zeplin
 
 ![](/images/ribbon-zeplin.png)
-
- 
 
 ### We start building
 
@@ -112,7 +73,9 @@ We work in one week sprints, and use Zeplin, Slack, and video chat to communicat
 
 ![](/images/ribbon-launch.png)
 
- 
+The final site is live at <a href="http://www.ribbon.io" target="_new">ribbon.io</a>
+
+ 
 
 ### Outcomes
 
@@ -120,7 +83,7 @@ To avoid overwhelming our third party vendor, in our first few weeks we decided 
 
 To our surprise, our conversion rate for week one was **3.6%**, which exceeded our expectations.
 
- 
+ 
 
 ### Final takeaways
 
