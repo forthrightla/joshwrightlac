@@ -11,23 +11,23 @@ content_img_path: "/images/jumprope-landing.jpg"
 
 USA Jump Rope, the largest jump rope organization in the United States, has large events all over the country each year, culminating in the Jump Rope Nationals.
 
-The processes used to run the events and the organization itself are outdated and starting to fray at the edges.
+The processes used to run the events and the organization are outdated and starting to fray at the edges.
 
 ### My role
 
-I was hired by a consulting group to conduct a two day research study at the event to help develop a strategy and potentially a software solution.
+I was approached by the Austin-based consultancy <a href="http://rglrcollective.com" target="_new">RGLR Collective</a> to partner with them and conduct an on-site research study at the annual Jump Rope Nationals event in Florida. The goal was to observe the event and identify problem areas and possible solutions, culminating in an overall strategy for modernizing the sport. 
 
 ### Field research
 
-Partnered with a fellow UX researcher, we split up and conducted rapid fire contextual inquiries when we could grab people’s time. Additionally, I did a deep dive into how the event itself was run.
+Working as a two person team with a fellow UX researcher, I conducted rapid fire **contextual inquiries** with leadership, athletes, and support staff. Additionally, I did a deep dive into how the event itself was run.
 
 Not knowing much about sports in general, I was learning as much as I could as quickly as possible.
 
 ![](/images/jumprope-interview.jpg)
 
-### Dated legacy systems
+### Dated systems
 
-A surprising amount of the process used to run the event is still analog, and their filing system is “a filing cabinet in a storage unit in Alabama”.
+A surprising amount of the process used to run the event remains paper-based, with their filing system consisting of “a filing cabinet in a storage unit in Alabama”.
 
 There was a tremendous opportunity for optimization.
 
@@ -35,7 +35,7 @@ There was a tremendous opportunity for optimization.
 
 ### Understanding the event
 
-One observation that stood out was the use of “runners.”
+One observation that stood out to me was the use of “runners.”
 
 Each athlete competes at one of nine stations, observed by three judges.
 
@@ -43,13 +43,13 @@ After an event, three runners will go to each station, write down the judges’ 
 
 ![](/images/jumprope-runners.jpg)
 
-We rapidly synthesized in the field
+We rapidly synthesized in the field, turning our quotes and observations into insights and building a narrative.
 
 ![](/images/jumprope-postits.png)
 
-### Identifying opportunities
+### Identifying possible solutions
 
-The opportunity we identified was a suite of event software that would automatically communicate with a centralized server.
+One important opportunity we identified was replacing existing systems with a suite of event software that would automatically communicate with a centralized server.
 
 ![](/images/eventsoftware.png)
 
