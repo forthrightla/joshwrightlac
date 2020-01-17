@@ -27,3 +27,5 @@ if (menuToggle) {
     }
   }, true);
 }
+
+document.querySelectorAll('.inner-small p img').forEach((i) => i.parentElement.classList.add('img-wrapper'));

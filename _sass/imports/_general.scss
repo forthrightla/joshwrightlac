@@ -412,3 +412,13 @@ img {
   content: "";
   display: table;
 }
+
+.inner-small p.img-wrapper {
+  max-width:100%;
+}
+
+.inner-small p {
+  max-width:750px;
+  margin-left: auto;
+  margin-right: auto;
+}
