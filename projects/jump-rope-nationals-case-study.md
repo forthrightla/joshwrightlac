@@ -53,7 +53,7 @@ One important opportunity we identified was replacing existing systems with a su
 
 ![](/images/eventsoftware.png)
 
-Via affinity diagram, we identified which product would have the highest impact with the lowest investment, and that morning at the event I sketched out solutions.
+Via affinity diagram, we identified which product would have the highest impact with the lowest investment, and that morning at the event I ideated and sketched possible solutions.
 
 ![](/images/usajr-sketch.png)
 
