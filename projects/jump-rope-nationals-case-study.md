@@ -55,8 +55,6 @@ One important opportunity we identified was replacing existing systems with a su
 
 ![](/images/eventsoftware.png)
 
- 
- 
 ### Prototyping an app to judge more efficiently
 
 Via affinity diagram, my fellow researcher and I identified which solution would have the highest impact with the lowest investment, and that morning at the event I sketched out my ideas.
@@ -84,3 +82,7 @@ Working closely with my colleagues at RGLR Collective, we developed a proposed r
 ![](/images/usajr-principles.png)
 
 ![](/images/usajr-roadmap.png)
+
+### What's next
+
+The board was very excited about our proposal, and we're currently exploring next steps. Watch this space!
