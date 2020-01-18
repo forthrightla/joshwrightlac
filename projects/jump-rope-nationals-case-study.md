@@ -55,15 +55,17 @@ One important opportunity we identified was replacing existing systems with a su
 
 ![](/images/eventsoftware.png)
 
-Via affinity diagram, we identified which product would have the highest impact with the lowest investment, and that morning at the event I sketched out my ideas.
+ 
+ 
+### Prototyping an app to judge more efficiently
 
-### Prototyping my idea
+Via affinity diagram, my fellow researcher and I identified which solution would have the highest impact with the lowest investment, and that morning at the event I sketched out my ideas.
 
-After validating my ideas with my fellow researcher, I began to design a mobile prototype backstage that would improve the judging experience.
+Once I hit upon a flow I liked, I began to design a mobile prototype backstage to improve the judging experience.
 
 ![](/images/jumprope-design.png)
 
-After completing the designs, I put together a quick prototype in Invision to more easily demonstrate the flow and interactions. 
+After completing the designs, I put together a quick prototype in Invision to more easily demonstrate the flow and interactions.
 
 (If you're on mobile, use this <a href="http://invis.io/BKSR9I2AHU4" target="_new">direct link</a>)
 
