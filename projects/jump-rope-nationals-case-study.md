@@ -63,7 +63,9 @@ After validating my ideas with my fellow researcher, I began to design a mobile 
 
 ![](/images/jumprope-design.png)
 
-After completing the designs, I put together a quick prototype in Invision to more easily demonstrate the flow and interactions. (If you're on mobile, use this <a href="http://invis.io/BKSR9I2AHU4" target="_new">direct link</a>.
+After completing the designs, I put together a quick prototype in Invision to more easily demonstrate the flow and interactions. 
+
+(If you're on mobile, use this <a href="http://invis.io/BKSR9I2AHU4" target="_new">direct link</a>)
 
 <iframe width="438" height="930" align="center" src="//invis.io/BKSR9I2AHU4" frameborder="0" allowfullscreen></iframe>
 
