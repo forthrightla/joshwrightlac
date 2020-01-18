@@ -59,13 +59,15 @@ Via affinity diagram, we identified which product would have the highest impact 
 
 ### Prototyping my idea
 
+After validating my ideas with my fellow researcher, I began to design a mobile prototype backstage that would improve the judging experience.
+
 ![](/images/jumprope-design.png)
 
-After validating my idea with my fellow researcher, I designed a mobile prototype in Sketch and wired it up in Invision.
+After completing the designs, I put together a quick prototype in Invision to more easily demonstrate the flow and interactions. (If you're on mobile, use this <a href="http://invis.io/BKSR9I2AHU4" target="_new">direct link</a>.
 
 <iframe width="438" height="930" align="center" src="//invis.io/BKSR9I2AHU4" frameborder="0" allowfullscreen></iframe>
 
-### Pitching the board of directors
+#### Pitching the board of directors
 
 After the event, I met with the board and pitched them on my software solution. They were extremely enthusiastic, and were excited about next steps.
 
