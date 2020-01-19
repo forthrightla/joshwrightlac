@@ -67,7 +67,11 @@ After completing the designs, I put together a quick prototype in Invision to mo
 
 (If you're on mobile, use this <a href="http://invis.io/BKSR9I2AHU4" target="_new">direct link</a>)
 
+<div style="text-align:center;">
+
 <iframe width="438" height="930" align="center" src="//invis.io/BKSR9I2AHU4" frameborder="0" allowfullscreen></iframe>
+
+</div>
 
 ### Pitching the board of directors
 
