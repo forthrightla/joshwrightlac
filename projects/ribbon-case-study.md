@@ -55,11 +55,9 @@ After several rounds of back and forth with key stakeholders, I was able to narr
 
 ### The brand begins to emerge
 
-![](/images/ribbon-brand.png)
+![](/images/ribbon-mobile-01.png)
 
-![](/images/ribbon-howitworks.png)
-
-![](/images/ribbon-flow2.png)
+![](/images/ribbon-mobile-02.png)
 
 ### Assets begin shipping to Zeplin
 
