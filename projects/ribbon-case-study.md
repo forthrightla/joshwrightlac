@@ -59,9 +59,7 @@ After several rounds of back and forth with key stakeholders, I was able to narr
 
 ![](/images/ribbon-mobile-02.png)
 
-### Assets begin shipping to Zeplin
-
-![](/images/ribbon-zeplin.png)
+![](/images/ribbon-desktop-01.png)
 
 ### We start building
 
@@ -84,3 +82,9 @@ To our surprise, our conversion rate for week one was **3.6%**, which exceeded o
 Using the results from the Ribbon experiment, we were able to make a case to leadership for dramatically simplifying the existing LegalZoom LLC experience and adding more personable copy.
 
 I worked with the LLC product team to identify screens to A/B test removing, and places in the funnel to rework the copy. When the reworked LLC was launched, conversion increased by **8%**.
+
+### Further explorations
+
+Towards the end of the project, I was tasked with exploring the post-conversion experience. This would allow customers to track their orders, explore partner offers, and update their business information. Additionally, I was exploring possible gamification to encourage long-term customer engagement. 
+
+![](/images/ribbon-dashboard.png)
