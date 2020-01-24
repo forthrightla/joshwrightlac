@@ -20,8 +20,8 @@ The final site is live at <a href="http://www.ribbon.io" target="_new">ribbon.io
 ### My role
 
 * **Product strategy:** As Principal Designer, I partnered closely with the VPs of Marketing, Creative, and UX to determine product strategy.
-* **UX & Product design:** Mind-melding with a fellow Product Designer, we pair designed the entire experience from top to bottom, developing a design system and a visual language.
-* **Engineering:** I worked closely with our engineers to ensure parity with shipped designs. This included functionality, look and feel, and animation.
+* **UX & Product design:** Mind-melding with a fellow Product Designer, we pair-designed the entire experience from top to bottom, developing a design system and a visual language.
+* **Engineering:** I worked closely with our engineers to ensure velocity as well as 1:1 parity with shipped designs. This included functionality, look and feel, and animation.
 
 <p>&nbsp;</p>
 
