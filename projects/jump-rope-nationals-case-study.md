@@ -13,9 +13,13 @@ USA Jump Rope, the largest jump rope organization in the United States, has larg
 
 The processes used to run the events and the organization are outdated and starting to fray at the edges.
 
+<p>&nbsp;</p>
+
 ### My role
 
 I was approached by the Austin-based consultancy <a href="http://rglrcollective.com" target="_new">RGLR Collective</a> to partner with them and conduct an on-site research study at the annual Jump Rope Nationals event in Florida. The goal was to observe the event and identify problem areas and possible solutions, culminating in an overall strategy for modernizing the sport.
+
+<p>&nbsp;</p>
 
 ### Field research
 
@@ -25,6 +29,8 @@ Not knowing much about sports in general, I was learning as much as I could as q
 
 ![](/images/jumprope-interview.jpg)
 
+<p>&nbsp;</p>
+
 ### Dated systems
 
 A surprising amount of the process used to run the event remains paper-based, with their filing system consisting of “a filing cabinet in a storage unit in Alabama”.
@@ -32,6 +38,8 @@ A surprising amount of the process used to run the event remains paper-based, wi
 There was a tremendous opportunity for optimization.
 
 ![](/images/jumprope-kid.png)
+
+<p>&nbsp;</p>
 
 ### Understanding the event
 
@@ -47,6 +55,8 @@ We rapidly synthesized in the field, turning our quotes and observations into in
 
 ![](/images/jumprope-postits.png)
 
+<p>&nbsp;</p>
+
 ### Identifying possible solutions
 
 One important opportunity we identified was replacing existing systems with a suite of event software that would automatically communicate with a centralized server.
@@ -54,6 +64,8 @@ One important opportunity we identified was replacing existing systems with a su
 ![](/images/usajr-sketch.png)
 
 ![](/images/eventsoftware.png)
+
+<p>&nbsp;</p>
 
 ### Prototyping an app to judge more efficiently
 
@@ -73,11 +85,15 @@ After completing the designs, I put together a quick prototype in Invision to mo
 
 </div>
 
+<p>&nbsp;</p>
+
 ### Pitching the board of directors
 
 After the event, I met with the board and pitched them on my software solution. They were extremely enthusiastic, and were excited about next steps.
 
 ![](/images/jumprope-board.png)
+
+<p>&nbsp;</p>
 
 ### Developing a roadmap
 
@@ -86,6 +102,8 @@ Working closely with my colleagues at RGLR Collective, we developed a proposed r
 ![](/images/usajr-principles.png)
 
 ![](/images/usajr-roadmap.png)
+
+<p>&nbsp;</p>
 
 ### What's next
 
