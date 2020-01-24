@@ -45,7 +45,7 @@ After several rounds of back and forth with key stakeholders, I was able to narr
 
 ### Next, establishing baseline layout and functionality
 
-![](/images/ribbon-sketch.jpg)
+![](/images/ribbon-sketch.png)
 
 ![](/images/ribbon-layout.png)
 
