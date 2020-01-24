@@ -11,9 +11,11 @@ content_img_path: "/images/ribbon-pic.png"
 
 LegalZoom’s LLC formation product accounts for almost half of the company’s revenue. As such, leadership is hesitant to take big risks on changing the product offering or experience.
 
-I was hand-picked to lead product strategy and design for a small cross-functional team created as a “startup” within the broader company. The goal of the team was to create an experience independent of legacy systems and to experiment with price point, look and feel, and product offerings. All to be delivered at the end of **four weeks**.
+I was hand-picked to lead product strategy and design for a small cross-functional team created as a “startup” within the broader company. The **goal** of the team was to create a friendly and welcoming experience independent of legacy systems and to experiment with price point, look and feel, and product offerings. All to be delivered at the end of **four weeks**.
 
 The final site is live at <a href="http://www.ribbon.io" target="_new">ribbon.io</a>
+
+<p>&nbsp;</p>
 
 ### My role
 
@@ -21,11 +23,7 @@ The final site is live at <a href="http://www.ribbon.io" target="_new">ribbon.io
 * **UX & Product design:** I designed the entire experience from top to bottom, developing a design system and a visual language.
 * **Engineering:** I worked closely with our engineers to ensure parity with shipped designs. This included functionality, look and feel, and animation.
 
-### First, some context: what is a typical LegalZoom product experience?
-
-![](/images/lz-typical-experience.png)
-
-A typical product experience consists of a **landing page**, a **questionnaire** in which customers fill out their detailed information, an **order review page**, and a **checkout page**. Some legacy questionnaires can be up to 30 pages in length.
+<p>&nbsp;</p>
 
 ### Determining target market
 
@@ -33,9 +31,13 @@ To differentiate the Ribbon experience from LegalZoom's typical customer, we dec
 
 ![](/images/competitive-landscape-1.png)
 
+<p>&nbsp;</p>
+
 ### Strategy
 
 In order to complete this project at the required velocity, I had to make informed assumptions based on existing research and design. This included competitive analyses, proto-personas, customer journey maps, and mothballed designs for similar projects that had been usability and demand tested.
+
+<p>&nbsp;</p>
 
 ### First, I determine the information architecture
 
@@ -43,15 +45,21 @@ After several rounds of back and forth with key stakeholders, I was able to narr
 
 \[IA screen here\]
 
+<p>&nbsp;</p>
+
 ### Next, establishing baseline layout and functionality
 
 ![](/images/ribbon-sketch.png)
 
 ![](/images/ribbon-layout.png)
 
+<p>&nbsp;</p>
+
 ### Thread, our design system, is born
 
 ![](/images/thread.png)
+
+<p>&nbsp;</p>
 
 ### The brand begins to emerge
 
@@ -60,6 +68,8 @@ After several rounds of back and forth with key stakeholders, I was able to narr
 ![](/images/ribbon-mobile-02.png)
 
 ![](/images/ribbon-desktop-01.png)
+
+<p>&nbsp;</p>
 
 ### We start building
 
@@ -71,11 +81,15 @@ We work in one week sprints, and use Zeplin, Slack, and video chat to communicat
 
 The final site is live at <a href="http://www.ribbon.io" target="_new">ribbon.io</a>
 
+<p>&nbsp;</p>
+
 ### Outcomes
 
 To avoid overwhelming our third party vendor, in our first few weeks we decided to cap orders at 100. We also set our expectations very low on conversion rate due to the brand being unestablished.
 
 To our surprise, our conversion rate for week one was **3.6%**, which exceeded our expectations.
+
+<p>&nbsp;</p>
 
 ### Final takeaways
 
@@ -83,8 +97,10 @@ Using the results from the Ribbon experiment, we were able to make a case to lea
 
 I worked with the LLC product team to identify screens to A/B test removing, and places in the funnel to rework the copy. When the reworked LLC was launched, conversion increased by **8%**.
 
+<p>&nbsp;</p>
+
 ### Further explorations
 
-Towards the end of the project, I was tasked with exploring the post-conversion experience. This would allow customers to track their orders, explore partner offers, and update their business information. Additionally, I was exploring possible gamification to encourage long-term customer engagement. 
+Towards the end of the project, I was tasked with exploring the post-conversion experience. This would allow customers to track their orders, explore partner offers, and update their business information. Additionally, I was exploring possible gamification to encourage long-term customer engagement.
 
 ![](/images/ribbon-dashboard.png)
