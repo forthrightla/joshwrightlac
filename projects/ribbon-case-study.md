@@ -3,7 +3,7 @@ layout: project
 title: Ribbon Case Study
 subtitle: Product design and strategy
 date: 2019-12-06T08:00:00.000+00:00
-thumb_img_path: "/images/ribbon-block.png"
+thumb_img_path: "/images/ribbon-block-1.png"
 content_img_path: "/images/ribbon-pic.png"
 
 ---
