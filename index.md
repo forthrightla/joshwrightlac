@@ -3,7 +3,8 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: Josh Wright is a Product Designer and UX strategist working in Los Angeles.
+  title: Josh Wright is a <strong>Product Designer</strong> and <strong>UX strategist</strong>
+    working in Los Angeles.
   section_id: hero
   component: hero_block.html
   content: ''
@@ -14,7 +15,7 @@ sections:
   component: portfolio_block.html
   subtitle: ''
   layout_style: tiles
-  num_projects_displayed: '99'
+  num_projects_displayed: 99
   view_all_text: ''
   view_all_url: ''
 - type: testimonialsblock
