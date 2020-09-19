@@ -4,7 +4,7 @@ sections:
 - type: heroblock
   template: heroblock
   title: Josh Wright is a <strong>Product Designer</strong> &amp; <strong>UX strategist</strong>
-    working in <strong>Los Angeles.</strong>
+    working in <strong>Austin.</strong>
   section_id: hero
   component: hero_block.html
   content: ''
