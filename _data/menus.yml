@@ -1,5 +1,5 @@
 ---
 main:
-- url: mailto:josh@joshwrightla.com
-  weight: 3
+- url: mailto:josh@joshwrightatx.com
+  weight: "3"
   title: Contact
