@@ -71,7 +71,7 @@ One important opportunity we identified was replacing existing systems with a su
 
 Via affinity diagram, my fellow researcher and I identified which solution would have the highest impact with the lowest investment, and that morning at the event I sketched out my ideas.
 
-Once I hit upon a flow I liked, I began to design a mobile prototype backstage to improve the judging experience.
+Once I hit upon a flow I liked, I began to design a mobile prototype backstage to improve and address the incredibly specific needs of the judging experience.
 
 ![](/images/jumprope-design.png)
 
