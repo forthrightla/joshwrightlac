@@ -77,9 +77,15 @@ Once I hit upon a flow I liked, I began to design a mobile prototype backstage t
 
 After completing the designs, I put together a quick prototype in Invision to more easily demonstrate the flow and interactions. Here are a selection of screens from that prototype:
 
+### Automatically detecting and joining an event
+
 ![](/images/usajr-row-01.png)
 
+### Tabulating jumps during the event
+
 ![](/images/usajr-row-02.png)
+
+### Submitting scores to a centralized database
 
 ![](/images/usajr-row-03.png)
 
