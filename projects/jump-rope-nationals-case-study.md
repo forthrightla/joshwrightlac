@@ -79,13 +79,19 @@ After completing the designs, I put together a quick prototype in Invision to mo
 
 ### Automatically detecting and joining an event
 
-![](/images/usajr-row-01.png)
+To get a judge quickly connected to the event, I proposed using geofencing and GPS to automatically detect an event's location and allow the judge to join. Additionally, the app would detect what event was currently taking place and allow the judge to indicate their station and immediately get started tabulating.
+
+![](/images/usajr-row-01-1.png)
 
 ### Tabulating jumps during the event
 
-![](/images/usajr-row-02.png)
+During an event, a judge needs to track each individual jumper and then compare their counts with two other nearby judges using physical counters. 
+
+![](/images/usajr-row-02-1.png)
 
 ### Submitting scores to a centralized database
+
+As previously mentioned, today the solution for capturing scores is a physical "runner" writing them down and then running them over to be input into a database. This solution allows for scores to be recorded and submitted on the fly, keeping things moving seamlessly.
 
 ![](/images/usajr-row-03.png)
 
