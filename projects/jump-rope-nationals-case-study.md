@@ -2,7 +2,7 @@
 layout: project
 title: US Jump Rope Nationals case study
 subtitle: Research and rapid-fire design in the field
-date: 2019-12-04 08:00:00 +0000
+date: 2019-12-04T08:00:00.000+00:00
 thumb_img_path: "/images/Screen Shot 2020-01-16 at 7.23.19 PM-1.png"
 content_img_path: "/images/jumprope-landing.jpg"
 
@@ -13,13 +13,13 @@ USA Jump Rope, the largest jump rope organization in the United States, has larg
 
 The processes used to run the events and the organization are outdated and starting to fray at the edges.
 
-<p>&nbsp;</p>
+<p> </p>
 
 ### My role
 
 I was approached by the Austin-based consultancy <a href="http://rglrcollective.com" target="_new">RGLR Collective</a> to partner with them and conduct an on-site research study at the annual Jump Rope Nationals event in Florida. The goal was to observe the event and identify problem areas and possible solutions, culminating in an overall strategy for modernizing the sport.
 
-<p>&nbsp;</p>
+<p> </p>
 
 ### Field research
 
@@ -29,7 +29,7 @@ Not knowing much about sports in general, I was learning as much as I could as q
 
 ![](/images/jumprope-interview.jpg)
 
-<p>&nbsp;</p>
+<p> </p>
 
 ### Dated systems
 
@@ -39,7 +39,7 @@ There was a tremendous opportunity for optimization.
 
 ![](/images/jumprope-kid.png)
 
-<p>&nbsp;</p>
+<p> </p>
 
 ### Understanding the event
 
@@ -55,7 +55,7 @@ We rapidly synthesized in the field, turning our quotes and observations into in
 
 ![](/images/jumprope-postits.png)
 
-<p>&nbsp;</p>
+<p> </p>
 
 ### Identifying possible solutions
 
@@ -65,7 +65,7 @@ One important opportunity we identified was replacing existing systems with a su
 
 ![](/images/eventsoftware.png)
 
-<p>&nbsp;</p>
+<p> </p>
 
 ### Prototyping an app to judge more efficiently
 
@@ -75,17 +75,15 @@ Once I hit upon a flow I liked, I began to design a mobile prototype backstage t
 
 ![](/images/jumprope-design.png)
 
-After completing the designs, I put together a quick prototype in Invision to more easily demonstrate the flow and interactions.
+After completing the designs, I put together a quick prototype in Invision to more easily demonstrate the flow and interactions. Here are a selection of screens from that prototype:
 
-(If you're on mobile, use this <a href="http://invis.io/BKSR9I2AHU4" target="_new">direct link</a>)
+![](/images/usajr-row-01.png)
 
-<div style="text-align:center;">
+![](/images/usajr-row-02.png)
 
-<iframe width="438" height="930" align="center" src="//invis.io/BKSR9I2AHU4" frameborder="0" allowfullscreen></iframe>
+![](/images/usajr-row-03.png)
 
-</div>
-
-<p>&nbsp;</p>
+<p> </p>
 
 ### Pitching the board of directors
 
@@ -93,7 +91,7 @@ After the event, I met with the board and pitched them on my software solution. 
 
 ![](/images/jumprope-board.png)
 
-<p>&nbsp;</p>
+<p> </p>
 
 ### Developing a roadmap
 
@@ -103,7 +101,7 @@ Working closely with my colleagues at RGLR Collective, we developed a proposed r
 
 ![](/images/usajr-roadmap.png)
 
-<p>&nbsp;</p>
+<p> </p>
 
 ### What's next
 
