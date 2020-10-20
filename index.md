@@ -35,7 +35,7 @@ sections:
       the next designer, but listens to the user and uses his powers of observation
       for good.
   - author: Girmant Ragus, Sr Creative Director at LegalZoom
-    avatar: "/images/girmant.jpeg"
+    avatar: "/images/girmant-1.jpeg"
     content: Josh is great - period! He's very detail oriented and extremely capable
       in both UX & visual design disciplines. As a person Josh is dependable, no nonsense
       and fun - a total pleasure.
