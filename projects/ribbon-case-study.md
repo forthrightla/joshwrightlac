@@ -2,7 +2,7 @@
 layout: project
 title: Ribbon Case Study
 subtitle: Product design and strategy
-date: 2019-12-06T08:00:00.000+00:00
+date: '2019-12-06T08:00:00.000+00:00'
 thumb_img_path: "/images/ribbon-block-2.png"
 content_img_path: "/images/ribbon-pic.png"
 
@@ -15,7 +15,7 @@ I was hand-picked to lead product strategy and design for a small cross-function
 
 The final site is live at <a href="http://www.ribbon.io" target="_new">ribbon.io</a>
 
-<p>&nbsp;</p>
+<p> </p>
 
 ### My role
 
@@ -23,7 +23,7 @@ The final site is live at <a href="http://www.ribbon.io" target="_new">ribbon.io
 * **UX & Product design:** Mind-melding with a fellow Product Designer, we pair-designed the entire experience from top to bottom, developing a design system and a visual language.
 * **Engineering:** I worked closely with our engineers to ensure velocity as well as 1:1 parity with shipped designs. This included functionality, look and feel, and animation.
 
-<p>&nbsp;</p>
+<p> </p>
 
 ### Determining target market
 
@@ -31,13 +31,13 @@ To differentiate the Ribbon experience from LegalZoom's typical customer, we dec
 
 ![](/images/competitive-landscape-1.png)
 
-<p>&nbsp;</p>
+<p> </p>
 
 ### Strategy
 
 In order to complete this project at the required velocity, I had to make informed assumptions based on existing research and design. This included competitive analyses, proto-personas, customer journey maps, and mothballed designs for similar projects that had been usability and demand tested.
 
-<p>&nbsp;</p>
+<p> </p>
 
 ### First, I determine the information architecture
 
@@ -45,7 +45,7 @@ After several rounds of back and forth with key stakeholders, I was able to narr
 
 \[IA screen here\]
 
-<p>&nbsp;</p>
+<p> </p>
 
 ### Next, establishing baseline layout and functionality
 
@@ -53,13 +53,13 @@ After several rounds of back and forth with key stakeholders, I was able to narr
 
 ![](/images/ribbon-layout.png)
 
-<p>&nbsp;</p>
+<p> </p>
 
 ### Thread, our design system, is born
 
 ![](/images/thread.png)
 
-<p>&nbsp;</p>
+<p> </p>
 
 ### The brand begins to emerge
 
@@ -69,7 +69,7 @@ After several rounds of back and forth with key stakeholders, I was able to narr
 
 ![](/images/ribbon-desktop-01.png)
 
-<p>&nbsp;</p>
+<p> </p>
 
 ### We start building
 
@@ -81,7 +81,7 @@ We work in one week sprints, and use Zeplin, Slack, and video chat to communicat
 
 The final site is live at <a href="http://www.ribbon.io" target="_new">ribbon.io</a>
 
-<p>&nbsp;</p>
+<p> </p>
 
 ### Outcomes
 
@@ -89,15 +89,7 @@ To avoid overwhelming our third party vendor, in our first few weeks we decided 
 
 To our surprise, our conversion rate for week one was **3.6%**, which exceeded our expectations.
 
-<p>&nbsp;</p>
-
-### Final takeaways
-
-Using the results from the Ribbon experiment, we were able to make a case to leadership for dramatically simplifying the existing LegalZoom LLC experience and adding more personable copy.
-
-I worked with the LLC product team to identify screens to A/B test removing, and places in the funnel to rework the copy. When the reworked LLC was launched, conversion increased by **8%**.
-
-<p>&nbsp;</p>
+<p> </p>
 
 ### Further explorations
 
