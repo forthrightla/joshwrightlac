@@ -1,7 +1,6 @@
 ---
 title: About me
-subtitle: Looking for work on a project basis only. Not currently seeking full time
-  roles.
+subtitle: I'm actively seeking work on a project basis only
 img_path: "/images/josh-synthesis.png"
 layout: page
 menu:
