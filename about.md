@@ -1,6 +1,7 @@
 ---
 title: About me
-subtitle: I'm actively seeking full-time or contract engagements. Let's chat.
+subtitle: Looking for work on a project basis only. Not currently seeking full time
+  roles.
 img_path: "/images/josh-synthesis.png"
 layout: page
 menu:
