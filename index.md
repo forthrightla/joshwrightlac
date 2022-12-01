@@ -30,6 +30,11 @@ sections:
     content: It was with supreme confidence that I tapped Josh to run my initial research
       program at Cerebral. It had to both serve as a template and convince critical
       leadership, and as usual, he delivered top shelf work done promptly.
+  - author: Evan Geerlings, Sr Director of Product at LegalZoom
+    avatar: "/images/evan.jpeg"
+    content: 'I always get excited when I get to work with Josh on a project. He brings
+      innovative thinking and a unique ability to solve complex interaction and user
+      experience problems. '
   - author: JC Casas, Director of UX at LegalZoom
     avatar: "/images/jc.jpeg"
     content: 'Josh is an exceptional thinker and one of the best UX professionals
@@ -44,11 +49,6 @@ sections:
     content: Josh is great - period! He's very detail oriented and extremely capable
       in both UX & visual design disciplines. As a person Josh is dependable, no nonsense
       and fun - a total pleasure.
-  - author: Evan Geerlings, Sr Director of Product at LegalZoom
-    avatar: "/images/evan.jpeg"
-    content: 'I always get excited when I get to work with Josh on a project. He brings
-      innovative thinking and a unique ability to solve complex interaction and user
-      experience problems. '
 layout: home
 menu:
   main:
