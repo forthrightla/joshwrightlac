@@ -35,10 +35,6 @@ sections:
     content: 'I always get excited when I get to work with Josh on a project. He brings
       innovative thinking and a unique ability to solve complex interaction and user
       experience problems. '
-  - author: JC Casas, Director of UX at LegalZoom
-    avatar: "/images/jc.jpeg"
-    content: 'Josh is an exceptional thinker and one of the best UX professionals
-      I’ve had the pleasure to work with. He would be a great addition to any team. '
   - author: 'Clair Whitmer, Head of Consumer Experience at Make:'
     avatar: "/images/clair-1.jpeg"
     content: Josh is a true team-player. He's not about about trying to out-creative
