@@ -9,10 +9,7 @@ header:
   has_nav: true
 footer:
   content: "&copy; Forthright. All rights reserved."
-  links:
-  - text: Resume
-    url: "#"
-    new_window: true
+  links: []
   has_social: true
 sass:
   indentWidth: 4
