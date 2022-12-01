@@ -28,9 +28,8 @@ sections:
   - author: Louis Elfman, Head of Design at Cerebral
     avatar: "/images/louie.jpeg"
     content: It was with supreme confidence that I tapped Josh to run my initial research
-      program at Cerebral. I knew it had to be done well, as it had to both serve
-      as a template and convince critical leadership. And as usual, he delivered top
-      shelf work done promptly.
+      program at Cerebral. It had to both serve as a template and convince critical
+      leadership, and as usual, he delivered top shelf work done promptly.
   - author: JC Casas, Director of UX at LegalZoom
     avatar: "/images/jc.jpeg"
     content: 'Josh is an exceptional thinker and one of the best UX professionals
