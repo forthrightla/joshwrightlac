@@ -8,7 +8,7 @@ header:
   title: Josh Wright
   has_nav: true
 footer:
-  content: "&copy; Forthright. All rights reserved."
+  content: "&copy; 2023 Forthright. All rights reserved."
   links: []
   has_social: true
 sass:
