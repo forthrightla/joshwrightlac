@@ -8,10 +8,6 @@ menu:
     weight: 2
 
 ---
-![](/images/hello-2.png)
+I’m dedicated to making the world more usable, accessible, and fun. To accomplish that, I've been working as a UX Researcher and Product Designer for over a decade, creating research-backed designs for web and mobile apps that have launched to audiences of over 33M yearly users. I have a proven track record of thriving at the intersection of business and user needs.
 
-I've been working in product and user experience design for over a decade, most recently as a Principal Product Designer at LegalZoom, a $200M online legal technology company serving 4M+ customers. My work focus includes research, web and mobile app design, and strategic thinking for system design.
-
-I have a proven track record of innovating and streamlining creative and product workflows, empowering teams to be more efficient and allowing for greater collaboration. 
-
-I'm dedicated to making the world more usable and fun. Let's build something!
+Let's build something!
