@@ -1,10 +1,11 @@
 ---
 layout: project_encrypted
-title: 'Selected Make: designs-(copy)'
-subtitle: 'A selection of designs from my time at Make:'
-date: 2019-12-02T08:00:00.000+00:00
-thumb_img_path: "/images/make-block.png"
+title: Mobile App Redesign
+subtitle: Discovery process for a comprehensive redesign of the AXS ticketing app
+date: 2021-02-01 00:00:00 -0600
+thumb_img_path: "/images/axs-pink.png"
 content_img_path: "/images/banner-race.jpg"
 published: false
 
 ---
+Coming soon!
