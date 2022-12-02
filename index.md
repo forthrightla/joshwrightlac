@@ -29,7 +29,7 @@ sections:
     avatar: "/images/louie.jpeg"
     content: It was with supreme confidence that I tapped Josh to run my initial research
       program at Cerebral. It had to both serve as a template and convince critical
-      leadership, and as usual, he delivered top shelf work done promptly.
+      leadership, and as usual he delivered top shelf work.
   - author: Evan Geerlings, Sr Director of Product at LegalZoom
     avatar: "/images/evan.jpeg"
     content: 'I always get excited when I get to work with Josh on a project. He brings
