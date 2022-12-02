@@ -1,41 +1,10 @@
 ---
 layout: project
 title: Cerebral Case Study
-subtitle: Estate Planning iOS app
+subtitle: Conducting research to inform a company's product roadmap
 date: 2019-12-05T08:00:00.000+00:00
-thumb_img_path: "/images/ep-app-2.png"
+thumb_img_path: "/images/cerebral.png"
 content_img_path: "/images/ios-all.png"
-published: false
 
 ---
-## Designing LegalZoom's first iOS app
-
-LegalZoom Estate Planning is a companion app for customers to maintain, make edits, and give family members access to their digital estate planning documents. The app also allows customers to schedule a consultation with an attorney or a tax advisor. I worked closely with a Product Manager to create the end-to-end UX and user interface design.
-
-The app successfully launched in fall of 2016, and was LegalZoom's first iOS app.
-
-Below is a selection of screens showcasing app functionality.
-
-### Sign in
-
-![](/images/Sign In-2.png)
-
-### Introduction
-
-![](/images/Intro.png)
-
-### Dashboard
-
-![](/images/Dashboard.png)
-
-### Notifications
-
-![](/images/Notifications.png)
-
-### Consultations
-
-![](/images/Consultations.png)
-
-### File storage
-
-![](/images/File Storage.png)
+## Coming Soon!
