@@ -3,8 +3,8 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: Josh Wright is a <strong>Product Design</strong> &amp; <strong>UX strategy
-    consultant</strong> working in <strong>Austin.</strong>
+  title: Josh Wright is a <strong>Product Designer</strong> &amp; <strong>UX Strategist</strong>
+    working in <strong>Austin.</strong>
   section_id: hero
   component: hero_block.html
   content: ''
