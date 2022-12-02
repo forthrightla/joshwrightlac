@@ -33,6 +33,7 @@ fields:
   config:
     required: true
 pages:
+- projects/cerebral-case-study.md
 - projects/jump-rope-nationals-case-study.md
 - projects/legalzoom-ios-app-design.md
 - projects/maker-faire-designs.md
