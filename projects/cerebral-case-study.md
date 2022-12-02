@@ -7,4 +7,4 @@ thumb_img_path: "/images/cerebral.png"
 content_img_path: "/images/ios-all.png"
 
 ---
-## Coming Soon!
+Coming soon!!
