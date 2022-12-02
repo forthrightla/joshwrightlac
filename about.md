@@ -1,7 +1,6 @@
 ---
 title: About me
-subtitle: I am actively seeking full-time work, preferably on a small but growing
-  in-house team
+subtitle: I am actively seeking full-time work, ideally on a small but growing team
 img_path: "/images/josh-synthesis.png"
 layout: page
 menu:
