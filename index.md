@@ -30,16 +30,16 @@ sections:
     content: It was with supreme confidence that I tapped Josh to run my initial research
       program at Cerebral. It had to both serve as a template and convince critical
       leadership, and as usual he delivered top shelf work.
-  - author: Evan Geerlings, Sr Director of Product at LegalZoom
-    avatar: "/images/evan.jpeg"
-    content: 'I always get excited when I get to work with Josh on a project. He brings
-      innovative thinking and a unique ability to solve complex interaction and user
-      experience problems. '
   - author: Bill Franz, Associate UX Director at AXS
     avatar: "/images/bill.jpeg"
     content: Josh is a thoughtful and creative problem solver. He asks the right questions
       and gets people engaged and invested to help answer them. I’d jump at the chance
       to collaborate with him again.
+  - author: Evan Geerlings, Sr Director of Product at LegalZoom
+    avatar: "/images/evan.jpeg"
+    content: 'I always get excited when I get to work with Josh on a project. He brings
+      innovative thinking and a unique ability to solve complex interaction and user
+      experience problems. '
   - author: Girmant Ragus, Sr Creative Director at LegalZoom
     avatar: "/images/girmant-1.jpeg"
     content: Josh is great - period! He's very detail oriented and extremely capable
