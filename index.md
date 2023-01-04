@@ -35,11 +35,10 @@ sections:
     content: 'I always get excited when I get to work with Josh on a project. He brings
       innovative thinking and a unique ability to solve complex interaction and user
       experience problems. '
-  - author: 'Clair Whitmer, Head of Consumer Experience at Make:'
-    avatar: "/images/clair-1.jpeg"
-    content: Josh is a true team-player. He's not about about trying to out-creative
-      the next designer, but listens to the user and uses his powers of observation
-      for good.
+  - author: Bill Franz, Associate UX Director at AXS
+    avatar: "/images/bill.jpeg"
+    content: Josh is a thoughtful and creative problem solver. He asks the right questions
+      and gets people engaged and invested to help answer them.
   - author: Girmant Ragus, Sr Creative Director at LegalZoom
     avatar: "/images/girmant-1.jpeg"
     content: Josh is great - period! He's very detail oriented and extremely capable
