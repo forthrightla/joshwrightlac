@@ -38,8 +38,8 @@ sections:
   - author: Bill Franz, Associate UX Director at AXS
     avatar: "/images/bill.jpeg"
     content: Josh is a thoughtful and creative problem solver. He asks the right questions
-      and gets people engaged and invested to help answer them. He was great to work
-      with, and I’d jump at the chance to collaborate with him again.
+      and gets people engaged and invested to help answer them. I’d jump at the chance
+      to collaborate with him again.
   - author: Girmant Ragus, Sr Creative Director at LegalZoom
     avatar: "/images/girmant-1.jpeg"
     content: Josh is great - period! He's very detail oriented and extremely capable
