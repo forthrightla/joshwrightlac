@@ -14,9 +14,9 @@ MakerSpace was a social network created by Maker Media, the company behind **Mak
 
 ### My role
 
-I was lead **Product**, **UX** and **Visual Designer** throughout the life cycle of the product, collaborating with a variety of stakeholders on everything from the art direction of promotional materials to interfacing directly with the CEO in a weekly **strategy** meeting.
+I was lead **Product**, **UX** and **Visual Designer** throughout the life cycle of the product, collaborating with a variety of stakeholders on everything from the art direction of promotional materials to interfacing **directly with the CEO** in a weekly strategy meeting.
 
-Using **Agile methodology**, I worked closely with the developers, producing high-level strategy and artifacts that included **wireframes**, **high-fidelity comps** and **CSS/HTML prototypes**. We often collaborated via "pair design" sessions over video chat, iterating in real-time on the implementation of my designs. In the final stages of the product, I worked with our Product Manager on overall **strategy**, leading to our final and most successful pivot: Spaces.
+Using **Lean methodology**, I worked hand-in-hand with the developers, producing high-level strategy and artifacts that included **wireframes**, **high-fidelity comps** and **interactive prototypes**. We often collaborated via "pair design" sessions over video chat, iterating in real-time on the implementation of my designs. In the final stages of the product, I worked with our Product Manager on overall **strategy**, leading to our final and most successful pivot: Spaces.
 
 ### Press
 
@@ -26,7 +26,7 @@ Using **Agile methodology**, I worked closely with the developers, producing hig
 
 ### Minimum viable product
 
-When we started the project in August 2014, the team was given an ambitious goal: launch an **MVP** at World Maker Faire New York September 20. We had **45 days**. The team rose to the challenge, iterating rapidly and building out the social platform from scratch. We onboarded our first 700 users on-site at the Faire. What follows are a few design artifacts from that first crazy month.
+When we started the project, the team was given an ambitious goal: launch an **MVP** at World Maker Faire New York just 45 days later. The team rose to the challenge, iterating rapidly and building out the social platform from scratch. We onboarded our first 700 users on-site at the Faire. What follows are a few design artifacts from that first crazy month.
 
 ![](/images/screen-mvp-marketing.png)
 
