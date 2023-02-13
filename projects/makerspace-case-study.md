@@ -4,7 +4,7 @@ title: MakerSpace Case Study
 subtitle: Conceiving, building, and launching the official social platform of the
   maker movement
 date: 2019-12-03T08:00:00.000+00:00
-thumb_img_path: "/images/make-block.png"
+thumb_img_path: "/images/block-makerspace.png"
 content_img_path: "/images/banner-faire.jpg"
 
 ---
