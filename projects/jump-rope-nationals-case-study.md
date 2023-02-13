@@ -1,6 +1,6 @@
 ---
 layout: project
-title: US Jump Rope Nationals case study
+title: US Jump Rope Nationals Case Study
 subtitle: Research and rapid-fire design in the field
 date: 2019-12-05 02:00:00 -0600
 thumb_img_path: "/images/Screen Shot 2020-01-16 at 7.23.19 PM-1.png"
