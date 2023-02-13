@@ -17,7 +17,7 @@ The processes used to run the events and the organization are outdated and start
 
 ### My role
 
-I was approached by the Austin-based consultancy <a href="http://rglrcollective.com" target="_new">RGLR Collective</a> to partner with them and conduct an on-site research study at the annual Jump Rope Nationals event in Florida. The goal was to observe the event and identify problem areas and possible solutions, culminating in an overall strategy for modernizing the sport.
+I was approached by the Austin-based consultancy <a href="http://rglrcollective.com" target="_new">RGLR Collective</a> to partner with them and conduct a field research study at the annual Jump Rope Nationals event in Florida. The goal was to observe the event and identify problem areas and possible solutions, culminating in an overall strategy for modernizing the sport.
 
 <p> </p>
 
@@ -85,7 +85,7 @@ To get a judge quickly connected to the event, I proposed using geofencing and G
 
 ### Tabulating jumps during the event
 
-During an event, a judge needs to track each individual jumper and then compare their counts with two other nearby judges using physical counters. 
+During an event, a judge needs to track each individual jumper and then compare their counts with two other nearby judges using physical counters.
 
 ![](/images/usajr-row-02-1.png)
 
