@@ -2,11 +2,12 @@
 layout: project
 title: O'Reilly Case Study
 subtitle: Enterprise UX design
-date: 2019-12-01T08:00:00.000+00:00
-thumb_img_path: "/images/block-orly.png"
-content_img_path: "/images/screen-taskflow.png"
-
+date: 2019-12-01T08:00:00.000Z
+thumb_img_path: /images/block-orly.png
+content_img_path: /images/screen-taskflow.png
+_template: project
 ---
+
 ## A process in trouble
 
 Benefit enrollment can be stressful. Users have a limited window each year to make changes to their health care benefits, and they’re worried about getting through the process. With **over 70%** of the **60,000 employees** at the **Fortune 500 company** using the application, the technical skill of users was unpredictable. The process needed to be as usable as possible.

@@ -2,11 +2,12 @@
 layout: project
 title: Ribbon Case Study
 subtitle: Product design and strategy
-date: 2019-12-06T08:00:00.000+00:00
-thumb_img_path: "/images/ribbon-block-2.png"
-content_img_path: "/images/ribbon-pic.png"
-
+date: 2019-12-06T08:00:00.000Z
+thumb_img_path: /images/ribbon-block-2.png
+content_img_path: /images/ribbon-pic.png
+_template: project
 ---
+
 ## Innovation at LegalZoom
 
 LegalZoom’s LLC formation product accounts for almost half of the company’s revenue. As such, leadership is hesitant to take big risks on changing the product offering or experience.

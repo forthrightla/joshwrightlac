@@ -1,13 +1,15 @@
 ---
 layout: project
 title: MakerSpace Case Study
-subtitle: Conceiving, building, and launching the official social platform of the
-  maker movement
-date: 2019-12-03T08:00:00.000+00:00
-thumb_img_path: "/images/block-makerspace.png"
-content_img_path: "/images/banner-faire.jpg"
-
+subtitle: >-
+  Conceiving, building, and launching the official social platform of the maker
+  movement
+date: 2019-12-03T08:00:00.000Z
+thumb_img_path: /images/block-makerspace.png
+content_img_path: /images/banner-faire.jpg
+_template: project
 ---
+
 ## Learn, share, connect
 
 MakerSpace was a social network created by Maker Media, the company behind **Make: Magazine** and **Maker Faire**, to bring the Maker Movement online. The core team was primarily **remote**, and acted with autonomy as a small **startup** within the larger corporation.

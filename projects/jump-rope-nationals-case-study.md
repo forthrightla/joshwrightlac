@@ -2,11 +2,12 @@
 layout: project
 title: US Jump Rope Nationals Case Study
 subtitle: Research and rapid-fire design in the field
-date: 2019-12-05 02:00:00 -0600
-thumb_img_path: "/images/Screen Shot 2020-01-16 at 7.23.19 PM-1.png"
-content_img_path: "/images/jumprope-landing.jpg"
-
+date: '2019-12-05 02:00:00 -0600'
+thumb_img_path: /images/Screen Shot 2020-01-16 at 7.23.19 PM-1.png
+content_img_path: /images/jumprope-landing.jpg
+_template: project
 ---
+
 ## An organization in need
 
 USA Jump Rope, the largest jump rope organization in the United States, has large events all over the country each year, culminating in the Jump Rope Nationals.
